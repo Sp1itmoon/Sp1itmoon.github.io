@@ -1,0 +1,1 @@
+﻿Ironcliff Blaster	R	common	Creature – Dwarf Soldier 	159	R	R	Whenever you cast an instant or sorcery spell, Ironcliff Blaster gets +1/+1 and gains first strike until end of turn.	1/1		normal	CYB		!canoncard Fire Urchin

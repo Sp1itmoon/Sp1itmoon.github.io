@@ -1,0 +1,1 @@
+﻿Goat	W	common	Token Creature – Goat 	5	W			0/1		token	CYB		!related Edgeland Market<1>;

@@ -1,0 +1,1 @@
+﻿Celise's Vengeance	B	uncommon	Sorcery	109	B	2B	Target opponent loses 3 life unless they discard a nonland card, then loses 3 life unless they sacrifice a nonland permanent. You gain life equal to the amount of life lost this way.			normal	CYB		!canoncard Torment of Venom

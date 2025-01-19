@@ -1,0 +1,1 @@
+﻿Battery Drain	U	common	Instant	71	U	1U	Tap up to two target creatures. Put a stun counter on each artifact tapped this way. (If a permanent with a stun counter would become untapped, remove one from it instead.)			normal	CYB		!canoncard Send to Sleep

@@ -1,0 +1,1 @@
+﻿Neo Stehlia		uncommon	Land	283	W		Neo Stehlia enters tapped unless you control a basic non-Plains land.NEWLINET: Add W.NEWLINE2W, T: Choose a creature type. Creatures you control of the chosen type get +1/+0 until end of turn.			normal	CYB		!canoncard Daru Encampment

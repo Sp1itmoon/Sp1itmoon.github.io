@@ -1,0 +1,1 @@
+﻿High Teqien		uncommon	Land	277	U		High Teqien enters tapped unless you control a basic non-Island land.NEWLINET: Add U.NEWLINE2U, T, Sacrifice High Teqien: Gain control of target land. Its owner may search their library for a basic land card, put it onto the battlefield, then shuffle.			normal	CYB		!canoncard Field of Ruin

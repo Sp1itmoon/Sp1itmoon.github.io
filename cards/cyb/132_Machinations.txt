@@ -1,0 +1,1 @@
+﻿Machinations	B	common	Sorcery	132	B	1B	Draw two cards. If you don’t control an artifact creature, you lose 3 life.			normal	CYB		!canoncard Sign in Blood

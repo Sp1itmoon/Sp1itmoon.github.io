@@ -1,0 +1,490 @@
+42_Illustrious Sheng Fa
+87_Marilye, Dreaming Big
+108_Celise, Syndicate Pariah
+150_Dawn of Peace
+0_Cogwork Harvester
+57_Spacetime Seraph
+102_The World Stood Still
+123_Festered Effluvium
+155_Gericho, Ageless Wanderer
+197_Rebuilding of Londel
+69_Zhovala, Silver Monarch
+72_Battle Physicist
+144_Xavvac, Corrupter Core
+145_Ardor, Forefront of Freedom
+210_Vasilisa, Helping Hand
+37_Farlands Diplomat
+73_Callisto, the Teqiarch
+111_Corpsepyre Fiend
+152_Edgeland Pledge
+182_Cyboreal Vengeance
+39_General Diadem, Usurper
+74_Callisto's Confiscation
+114_Data Weaver
+161_Leystone of Storms
+185_Imperfect Fugisaur
+40_Gentle Grasp
+76_Covetous Frostwyrm
+121_Extraction Ritual
+167_Ragecloak Shifter
+187_Lagoroth, Century's Apex
+44_Leystone of Being
+83_Invasion's End
+126_Inner Ring's Pupil
+170_Savvy Smith
+188_Leystone of Growth
+46_Looming Cyhawk
+84_Jetstream Cruiser
+129_Iris Pledge
+172_Sudden Revolt
+193_Ozanite Pledge
+47_Lost Resistor
+85_Leystone of Depths
+130_Leystone of Ruin
+173_Terminal Impact
+195_Ozanwood Huntsman
+50_Prime Consuls
+100_Teqien Pledge
+131_Lure into Lunacy
+176_Wildfang Cavalier
+202_Shining Hope
+54_Second Crown's Fall
+78_Defthand Infiltrator
+133_Malicious Skycleaver
+146_Arid Outrider
+204_Skittertiller
+55_Silver Ruination
+79_Dynamo Glyphs
+136_Proto-Class Behemoth
+147_Brass Oracle
+178_Aethersteel Pouncer
+58_Stehlian Pledge
+88_Neotech Savant
+137_Replicrawler
+148_Calamitous War Cry
+180_Ancient Cloudgrazer
+60_Stellar Witness
+89_No Time to Waste
+142_Tithe to the Machine
+149_Conscript
+181_Battlehymn Howler
+28_Ascended Seer
+90_Rebuke the Mighty
+106_Blackout Grifter
+154_Field Opportunist
+184_Hostile Evolution
+30_Assimilate
+92_Repulsion Field
+107_Capital Skyraiders
+156_Gift of Inspiration
+189_Leystone's Vigor
+31_Assured Destruction
+94_Scuttle Tank
+109_Celise's Vengeance
+164_Plasmana Hellkite
+194_Ozan's Blessing
+36_Exuberant Caprisaur
+99_Teqien Overseer
+112_Cull Populace
+166_Pyrewing Penancer
+199_Runerock Automaton
+48_Overt Banishment
+101_Tidewake Walker
+116_Dissect Intel
+177_Wyrmshot
+201_Sharesh's Bravery
+51_Radiant Chromate
+70_Aqueous Drake
+119_Earthly Penchants
+151_Drone Swarm
+207_Sustained Fire
+53_Royal Templar
+71_Battery Drain
+120_Essence Archivist
+153_Explosive Redemption
+179_Aggressor Model
+62_Synod of Sanctions
+75_Contain for Study
+122_Feed on the Meek
+157_High Voltage
+183_Endangered Scinok
+63_Tense Negotiations
+77_Deeptreader Arcanist
+125_Gilded Death
+158_Iron Steambreaker
+186_Impregnability
+64_Twilight Vagabond
+80_Emulation Expert
+135_Programmed Pursuer
+159_Ironcliff Blaster
+190_Londel Sharpshot
+65_Unshackle
+81_Forced Ejection
+138_Rooftop Slink
+160_Lead the Charge
+191_Massive Predation
+66_Warcast Seraph
+82_Industrialize
+140_Silverbone Chromate
+162_Minoan Engineer
+192_Orbinoid
+29_Assembled Assault
+86_Mage Hand
+103_Artificial Unlife
+163_Muse
+196_Ozanwood Murk
+32_Conserve Ideals
+91_Recharge
+104_Augmented Ruffians
+165_Pull the Wires
+198_Rigorous Recon
+33_Cut Aside
+93_Runway Mech
+105_Beckoner of Ends
+168_Resist in the Ranks
+200_Scrapmail Conscripts
+34_Dark Ambassador
+95_Siphon Energy
+110_Corpse Experiment
+169_Revved Robo
+203_Simpler Times
+35_Dated Mechanoid
+96_Skyward Magus
+113_Cybat
+171_Static Augment
+205_Skysnipe
+38_Galvanize
+97_Steamveil Model
+115_Data Wipe
+174_Vagrant Sorceress
+206_Stand Strong
+41_Holding Cell
+98_Survey the Area
+117_Dissolve into Data
+175_Vanguard Recruit
+208_Teslahammer Giant
+43_Lauded Orator
+0_Dynamo Glyphs
+118_Dregstreet Inquisitor
+0_Arid Outrider
+209_Valiant Resistance
+45_﻿Lithe Stalker
+0_Industrialize
+124_Fleshbearer
+0_Gift of Inspiration
+0_Imperfect Fugisaur
+49_Priestess of Chains
+e
+127_Iris Agent
+e
+0_Rebuilding of Londel
+52_Retrofit Paladin
+e
+128_Iris Cultist
+e
+e
+56_Silversilk Emissary
+e
+132_Machinations
+e
+e
+59_Stehlian Reverend
+e
+134_Nyamphibian
+e
+e
+61_Sworn Loyalist
+e
+139_Scrapweight
+e
+e
+67_Whipwing Dragonfly
+e
+141_Steelhorn Crusher
+e
+e
+68_Wistful Delegate
+e
+143_Withered Survivor
+e
+e
+0_Assured Destruction
+e
+0_Extraction Ritual
+e
+e
+0_Tense Negotiations
+e
+0_Programmed Pursuer
+e
+e
+er
+er
+er
+er
+er
+e
+e
+e
+223_Sharesh, Leader of the Lost
+e
+e
+e
+e
+218_Lend Me Strength
+e
+e
+e
+e
+242_Pact of Power
+e
+e
+e
+e
+248_Vukoroq Defector
+e
+e
+e
+e
+217_Inspired Denizen
+e
+e
+e
+e
+234_Edgeland Battlefury
+e
+e
+e
+e
+244_Ragtag Squad
+e
+e
+e
+e
+228_Barded Brachion
+e
+e
+e
+e
+237_Flametip Goliath
+e
+er
+er
+er
+er
+er
+211_Alcadia, Cardinal Judge
+e
+222_Ruin, the First Shard
+0_Get Your Wish
+e
+212_Azantium, Perfect Creation
+e
+225_Towering Sentinel
+215_Gnosa, Research Executive
+e
+221_Pursuer of Divinity
+e
+232_Cryptolabe
+213_Critical Capture
+e
+229_Bind Life to Steel
+e
+233_Decavolt Reactor
+240_Neotech Replicant
+e
+235_Eleanor, Royal Captain
+e
+224_Skylance Escort
+245_Resign to Progress
+e
+216_Imposing Iteration
+e
+227_Artisan's Studio
+220_Neotech Exploiter
+e
+226_Wayward Drek
+e
+246_Shepherd of Steel
+238_Highseas Renegade
+e
+243_Plasma Elite
+e
+231_Brass Laborer
+247_Stolen Secrets
+e
+249_Welding Rig
+e
+250_Workshop Helper
+239_Mesmage
+e
+230_Brandish Greatness
+e
+e
+241_Neotech Skyguard
+e
+236_Escorted Captain
+e
+e
+0_Resign to Progress
+e
+0_Bind Life to Steel
+e
+e
+e
+e
+er
+er
+er
+er
+er
+214_Gi-Gecha, Tide of Victory
+219_Leyspark Wielder
+e
+e
+e
+er
+er
+er
+er
+er
+5_Claim the Source
+27_Xiv, Replisparked
+268_Skinshifting Steel
+269_Stella's Journal
+1_Alien Pledge
+6_Embrace the Unnatural
+20_Taste for Malice
+21_Unity
+22_Unmolded One
+24_Voice from the Stars
+255_Gilded Font
+259_Malfunctioning Portal
+260_Matter Harvester
+264_Qimis, Central Intelligence
+267_The Shattered Throne
+3_Beguiling Stewards
+8_Fluid Formation
+13_Interception
+16_Offerings to Sky Gods
+18_Spatial Rift
+19_Stratos Sentry
+26_Xavvac's Reprocessing
+251_Altar of Chrome
+252_Archaic Obelisk
+254_Cosmic Colossus
+256_Gravity Gauntlets
+258_Leyshard
+261_Mercurial Wright
+2_Atomize
+4_Cast Reflection
+7_First Contact
+9_Hivecaste Vukoroq
+10_Inessence
+11_Instant Adaptation
+12_Instill Void
+14_Leyline Leecher
+15_Masked Envoy
+17_Savage Weldbeast
+23_Vision Herald
+25_Warp Figure
+253_Auto Sifter
+257_Holo-Map
+262_Omnoid Destroyer
+263_Plasma Armory
+265_Reactor Sphere
+266_Seeker Orbs
+270_Supercharger
+0_Gilded Font
+0_Malfunctioning Portal
+0_Offerings to Sky Gods
+0_Qimis, Central Intelligence
+e
+e
+e
+e
+er
+er
+er
+er
+er
+283_Neo Stehlia
+277_High Teqien
+276_Hallowed Chamber
+273_Edgeland Market
+286_Secluded Hangar
+282_Nebulous Ring
+294_Coalesced Glacier
+272_Dark Horizon
+296_Coalesced Peaks
+292_Coalesced Cliff
+295_Coalesced Mesa
+e
+293_Coalesced Core
+e
+e
+e
+e
+e
+289_Valley Village
+e
+279_Lunar Plateau
+e
+274_Field Laboratory
+287_Steam Colony
+e
+er
+er
+er
+er
+er
+280_Mirrormeld Spire
+285_Pristine Grounds
+271_Capital Zenith
+290_Warpway Rings
+e
+er
+er
+er
+er
+er
+275_Forest
+278_Island
+281_Mountain
+284_Plains
+288_Swamp
+291_Wastes
+e
+e
+e
+e
+er
+er
+er
+er
+er
+2t_Solidarity
+3t_Advisor
+4t_Avatar
+5t_Goat
+6t_Knight
+7t_Cyborg Knight
+8t_Zombie
+9t_Dinosaur
+10t_Red Ragtag
+11t_Soldier
+12t_Citizen
+13t_Elf
+14t_Green Ragtag
+15t_Construct
+16t_Cyborg
+17t_Cyborg Soldier
+18t_Leyshard
+19t_Potion
+20t_Thopter
+21t_Treasure
+22t_Weapon
+1t_Reminder
+e
+e
+e

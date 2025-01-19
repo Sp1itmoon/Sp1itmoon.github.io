@@ -1,0 +1,1 @@
+﻿Coalesced Glacier		special	Land	294	U		T: Add C.NEWLINEIf a spell or ability you control would produce C, you may pay 1 life. If you do, it produces U instead.			normal	CYB		!canoncard Underground RiverNEWLINE!update

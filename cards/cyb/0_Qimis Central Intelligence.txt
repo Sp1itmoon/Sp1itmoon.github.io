@@ -1,0 +1,1 @@
+﻿Qimis, Central Intelligence		special	Legendary Artifact Creature – Vukoroq 	0	C	2C	Each creature you control gets +2/+1 as long as you control two or more other creatures with the same name as it.NEWLINE3C, T: Create a token that’s a copy of target creature you control.	1/4		normal	CYB		!canoncard Hofri GhostforgeNEWLINE!promo

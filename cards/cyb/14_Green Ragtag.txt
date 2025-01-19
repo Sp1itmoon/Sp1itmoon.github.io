@@ -1,0 +1,1 @@
+﻿Green Ragtag	G	common	Token Creature	14	G		Trample	1/1		token	CYB		!related Ragtag Squad<1>;NEWLINE!tokentag GreenRagtag

@@ -1,0 +1,1 @@
+﻿Pull the Wires	R	common	Sorcery	165	R	1R	Destroy target artifact. Pull the Wires deals 2 damage to that artifact’s controller.			normal	CYB		!canoncard Explosive Entry

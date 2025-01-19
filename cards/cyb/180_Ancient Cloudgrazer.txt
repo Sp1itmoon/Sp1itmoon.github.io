@@ -1,0 +1,1 @@
+﻿Ancient Cloudgrazer	G	uncommon	Creature – Beast 	180	G	XGG	Vigilance, reach, trample, ward 3NEWLINEAncient Cloudgrazer enters with X +1/+1 counters on it.	0/0		normal	CYB		!canoncard Ivy Elemental

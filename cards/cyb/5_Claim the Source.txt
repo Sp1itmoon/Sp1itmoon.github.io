@@ -1,0 +1,1 @@
+﻿Claim the Source		mythic	Sorcery	5	C	5CC	Choose a color. Exile all permanents of the chosen color. Until the end of your next turn, if you would add C, instead add C and one mana of the chosen color.			normal	CYB		!canoncard All is Dust

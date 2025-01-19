@@ -1,0 +1,1 @@
+﻿Skysnipe	G	common	Instant	205	G	1G	Choose one –NEWLINE• Skysnipe deals 5 damage to target creature with flying.NEWLINE• Put a +1/+1 counter and a reach counter on target creature. Untap it.			normal	CYB		!canoncard Flourishing Strike

@@ -1,0 +1,1 @@
+﻿General Diadem, Usurper	W	rare	Legendary Creature – Human Noble 	39	W	3WW	You and General Diadem have hexproof as long as you control an artifact creature.NEWLINESacrifice a non-Knight artifact: Create a 3/3 black Cyborg Knight artifact creature token.	2/5		normal	CYB		!canoncard Gut, True Soul Zealot

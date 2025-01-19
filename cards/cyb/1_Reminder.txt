@@ -1,0 +1,1 @@
+﻿Reminder		special		1	C		You may add any number of Wastes to your deck after drafting. (They are basic lands that add C.)NEWLINEThis is a reminder. Please do not pick this card until it is the last card.			token	CYB		!canoncard Sentinel Dispatch

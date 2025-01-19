@@ -1,0 +1,1 @@
+﻿The World Stood Still	U	mythic	Instant	102	U	3UU	Tap all permanents.NEWLINEExile The World Stood Still.			normal	CYB		!canoncard Time Warp

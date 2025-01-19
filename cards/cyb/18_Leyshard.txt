@@ -1,0 +1,1 @@
+﻿Leyshard		common	Token Artifact	18	C		T, Sacrifice Leyshard: Draw a card. Add one mana of any type. (The types of mana are C, W, U, B, R, and G.)			token	CYB		!related Ruin, the First Shard<1>;

@@ -1,0 +1,1 @@
+﻿Dated Mechanoid	W	common	Artifact Creature – Construct Knight 	35	W	W	First strikeNEWLINEWhenever Dated Mechanoid becomes tapped, another target creature you control gets +1/+1 until end of turn.	1/1		normal	CYB		!canoncard Syr Faren, the Hengehammer

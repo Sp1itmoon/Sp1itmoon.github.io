@@ -1,0 +1,1 @@
+﻿Workshop Helper	UG	common	Creature – Human Artificer 	250	UG	G/U	Workshop Helper enters with a +1/+1 counter on it.NEWLINET: Move a counter from target creature you control onto another target creature. Activate only as a sorcery.	0/1		normal	CYB		!canoncard Bioshift

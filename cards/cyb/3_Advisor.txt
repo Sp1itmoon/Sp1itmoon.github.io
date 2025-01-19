@@ -1,0 +1,1 @@
+﻿Advisor	W	common	Token Creature – Advisor 	3	W			2/2		token	CYB		!related Prime Consuls<1>;

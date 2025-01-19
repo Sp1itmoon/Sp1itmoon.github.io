@@ -1,0 +1,1 @@
+﻿Dissolve into Data	B	common	Instant	117	B	4B	Integrate target creature. (Exile it, then you may choose a nonland permanent it’s integrated onto.)			normal	CYB		!canoncard Final DeathNEWLINE 101: Integrating is now optional.

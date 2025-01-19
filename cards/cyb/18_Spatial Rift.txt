@@ -1,0 +1,1 @@
+﻿Spatial Rift		uncommon	Instant	18	C	C	Counter target activated or triggered ability from a nonland source. If a creature’s ability is countered this way, you may pay 1C. If you do, exile that creature.			normal	CYB		!canoncard Stifle

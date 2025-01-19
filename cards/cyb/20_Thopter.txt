@@ -1,0 +1,1 @@
+﻿Thopter		common	Token Artifact Creature – Thopter 	20	C		Flying	1/1		token	CYB		!related Survey the Area<1>;Drone Swarm<2>;Minoan Engineer<1>;

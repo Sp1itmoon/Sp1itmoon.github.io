@@ -1,0 +1,1 @@
+﻿Retrofit Paladin	W	common	Creature – Human Knight 	52	W	3W	When Retrofit Paladin enters, tap up to two target creatures with power 3 or less.	3/4		normal	CYB		!canoncard Intrusive Packbeast

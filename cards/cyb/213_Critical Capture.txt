@@ -1,0 +1,1 @@
+﻿Critical Capture	UR	rare	Sorcery	213	UR	4UR	Gain control of target permanent. Untap it. It gains haste until end of turn.			normal	CYB		!canoncard Blatant Thievery

@@ -1,0 +1,1 @@
+﻿Proto-Class Behemoth	B	rare	Creature – Vukoroq Dinosaur 	136	B	9C/BC/BC/B	This spell costs 1 less to cast for each card in exile you don’t own.NEWLINETrampleNEWLINEWard–Exile a nonland, nontoken permanent you control.	9/6		normal	CYB		!canoncard Angel of Despair

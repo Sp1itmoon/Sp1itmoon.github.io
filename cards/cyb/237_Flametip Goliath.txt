@@ -1,0 +1,1 @@
+﻿Flametip Goliath	RG	common	Creature – Elemental Insect 	237	RG	2R/G	ReachNEWLINE3R/G: Flametip Goliath gets +2/+0, gains trample, and becomes a Giant in addition to its other types until end of turn.	2/3		normal	CYB		!canoncard Wildfire Emissary

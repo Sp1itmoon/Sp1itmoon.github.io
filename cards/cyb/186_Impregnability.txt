@@ -1,0 +1,1 @@
+﻿Impregnability	G	common	Instant	186	G	G	Target creature gets +2/+2 until end of turn. If you’ve cast another instant or sorcery spell this turn, put a +1/+1 counter on it.			normal	CYB		!canoncard For the Family

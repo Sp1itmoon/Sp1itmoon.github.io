@@ -1,0 +1,1 @@
+﻿Vagrant Sorceress	R	common	Creature – Human Wizard 	174	R	1R	Whenever you gain control of a permanent you don’t own or a permanent you don’t own enters under your control, put a +1/+1 counter on Vagrant Sorceress.	2/2		normal	CYB		!canoncard Frenzied Raider

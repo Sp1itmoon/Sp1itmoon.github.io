@@ -1,0 +1,1 @@
+﻿Knight	W	common	Token Creature – Knight 	6	W		As long as it’s your turn, this creature has indestructible.	3/1		token	CYB		!related Illustrious Sheng Fa<1>;

@@ -1,0 +1,1 @@
+﻿Gnosa, Research Executive	UR	mythic	Legendary Creature – Elf Artificer 	215	UR	2UR	When Gnosa, Research Executive enters, gain control of target nonland permanent until the end of your next turn. Untap it.NEWLINEPermanents you control but don’t own must be the targets of spells its owner casts if able.	3/3		normal	CYB		!canoncard Shield Broker

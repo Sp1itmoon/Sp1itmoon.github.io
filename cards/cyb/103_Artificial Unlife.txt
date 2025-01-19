@@ -1,0 +1,1 @@
+﻿Artificial Unlife	B	common	Instant	103	B	2B	Target creature gets -3/-3 until end of turn. When that creature dies this turn, create a 1/1 colorless Cyborg artifact creature token.			normal	CYB		!canoncard Fungal Infection

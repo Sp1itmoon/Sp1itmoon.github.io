@@ -1,0 +1,1 @@
+﻿Resign to Progress	UR	special	Sorcery	0	UR	3U/RU/R	Target opponent discards their hand, then draws seven cards. You discard your hand, then exile the top seven cards of that player’s library. You may play those cards as long as they remain exiled, and mana of any type can be spent to cast them.			normal	CYB		!canoncard Change of FortuneNEWLINE!design SplitmoonNEWLINE!promo 

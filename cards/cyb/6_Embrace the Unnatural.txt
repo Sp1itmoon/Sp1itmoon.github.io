@@ -1,0 +1,1 @@
+﻿Embrace the Unnatural		rare	Instant	6	C	2CC	Exile the top four cards of your library. You may play them until you play a card not exiled this way.			normal	CYB		!canoncard Act on Impulse

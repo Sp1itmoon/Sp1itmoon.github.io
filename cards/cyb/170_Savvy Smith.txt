@@ -1,0 +1,1 @@
+﻿Savvy Smith	R	rare	Creature – Goblin Artificer 	170	R	1R	Whenever you cast an instant or sorcery spell, choose one that hasn’t been chosen this turn –NEWLINE• Create a 1/1 colorless Construct artifact creature token.NEWLINE• Discard a card, then draw a card.NEWLINE• Add one mana of any type.	2/2		normal	CYB		!canoncard Young Pyromancer

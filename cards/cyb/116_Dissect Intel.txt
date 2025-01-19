@@ -1,0 +1,1 @@
+﻿Dissect Intel	B	uncommon	Sorcery	116	B	1B	Target opponent reveals their hand. You choose a nonland card from it and integrate it. (Exile it, then you may choose a nonland permanent it’s integrated onto.)			normal	CYB		!canoncard Agonizing RemorseNEWLINE 101: Integrating is now optional.

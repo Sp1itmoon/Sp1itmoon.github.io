@@ -1,0 +1,1 @@
+﻿Overt Banishment	W	uncommon	Instant	48	W	3W	Exile target creature. Tap up to two other target creatures if the exiled creature had power 3 or less.			normal	CYB		!canoncard Astral Confrontation

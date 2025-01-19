@@ -1,0 +1,1 @@
+﻿Gift of Inspiration	R	uncommon	Enchantment	156	R	1R	Whenever one or more creatures you control deal combat damage to an opponent, exile the top card of your library. Then you may create a 1/1 colorless Construct artifact creature token. If you don’t, you may play the exiled card until end of turn.			normal	CYB		!canoncard Thopter Spy Network

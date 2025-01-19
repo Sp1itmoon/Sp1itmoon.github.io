@@ -1,0 +1,1 @@
+﻿Gentle Grasp	W	rare	Instant	40	W	C/WC/W	Exile target spell you don’t control. After this turn has ended, its owner may cast that card from exile by discarding a card in addition to paying its other costs.			normal	CYB		!canoncard Remand

@@ -1,0 +1,1 @@
+﻿Pristine Grounds		uncommon	Land	285	C		Pristine Grounds enters tapped unless you control no other lands.NEWLINET: Add one mana of any type Pristine Grounds hasn’t produced this game. (The types of mana are C, W, U, B, R, and G.)			normal	CYB		!canoncard Reflecting Pool

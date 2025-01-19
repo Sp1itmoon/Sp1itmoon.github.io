@@ -1,0 +1,1 @@
+﻿Contain for Study	U	common	Enchantment – Aura 	75	U	3U	Enchant creatureNEWLINEWhen Contain for Study enters, tap enchanted creature.NEWLINEYou control enchanted creature.NEWLINEEnchanted creature doesn’t untap during its controller’s untap step.			normal	CYB		!canoncard Ice Cage

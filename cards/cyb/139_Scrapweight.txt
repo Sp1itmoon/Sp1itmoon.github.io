@@ -1,0 +1,1 @@
+﻿Scrapweight	B	common	Enchantment – Aura 	139	B	B	Enchant creatureNEWLINEEnchanted creature gets -1/-1.NEWLINESacrifice an artifact: Destroy enchanted creature.			normal	CYB		!canoncard Dead Weight

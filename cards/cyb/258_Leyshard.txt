@@ -1,0 +1,1 @@
+﻿Leyshard		uncommon	Artifact	258	C	2	T, Sacrifice Leyshard: Draw a card. Add one mana of any type. (The types of mana are C, W, U, B, R, and G.)			normal	CYB		!canoncard Chromatic Sphere

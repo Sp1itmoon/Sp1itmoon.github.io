@@ -1,0 +1,1 @@
+﻿Ozanite Pledge	G	rare	Instant	193	URG	1G	Create a 3/1 red Dinosaur creature token. When you do, pay for and choose any number.NEWLINE+G – Put a trample counter on target creature you control.NEWLINE+U – Put a +1/+1 counter on target creature you control.NEWLINE+R – Put a haste counter on target creature you control.			normal	CYB		!canoncard primal command

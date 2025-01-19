@@ -1,0 +1,1 @@
+﻿Extraction Ritual	B	special	Sorcery	0	B	B	As an additional cost to cast this spell, you may sacrifice a creature, sacrifice an artifact, and/or discard a card.NEWLINEFor each additional cost paid to cast this spell, you lose 1 life, draw a card, and create a 1/1 colorless Cyborg artifact creature token.			normal	CYB		!canoncard Plumb the ForbiddenNEWLINE!promo

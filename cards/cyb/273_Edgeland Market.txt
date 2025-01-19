@@ -1,0 +1,1 @@
+﻿Edgeland Market		uncommon	Land	273	R		Edgeland Market enters tapped unless you control a basic non-Mountain land.NEWLINET: Add R.NEWLINE2R, T: Create a 0/1 white Goat creature token.			normal	CYB		!canoncard Springjack Pasture

@@ -1,0 +1,1 @@
+﻿Instant Adaptation		common	Instant	11	C	C	Choose a card name. Target permanent gains protection from the chosen name until end of turn. Scry 2.			normal	CYB		!canoncard Gods Willing

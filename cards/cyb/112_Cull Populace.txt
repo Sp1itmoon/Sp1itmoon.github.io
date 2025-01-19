@@ -1,0 +1,1 @@
+﻿Cull Populace	B	uncommon	Sorcery	112	B	1C/BC/B	Integrate each nontoken creature you don’t control with power 2 or less. (Exile them, then you may choose nonland permanents they’re integrated onto.)			normal	CYB		!canoncard Delayed Blast FireballNEWLINE 101: Integrating is now optional.

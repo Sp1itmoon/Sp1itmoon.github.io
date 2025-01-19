@@ -1,0 +1,1 @@
+﻿Coalesced Cliff		special	Land	292	G		T: Add C.NEWLINEIf a spell or ability you control would produce C, you may pay 1 life. If you do, it produces G instead.			normal	CYB		!canoncard BrushlandNEWLINE!update

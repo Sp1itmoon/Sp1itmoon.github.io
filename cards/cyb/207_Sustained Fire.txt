@@ -1,0 +1,1 @@
+﻿Sustained Fire	G	uncommon	Sorcery	207	G	2G	Target creature you control deals damage equal to its power to another target creature. When it deals excess damage this way, it deals damage equal to the excess to any target.			normal	CYB		!canoncard Ram Through

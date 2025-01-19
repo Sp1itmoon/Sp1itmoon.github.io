@@ -1,0 +1,1 @@
+﻿Red Ragtag	R	common	Token Creature	10	R		Haste	1/1		token	CYB		!related Ragtag Squad<1>;NEWLINE!tokentag RedRagtag

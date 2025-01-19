@@ -1,0 +1,1 @@
+﻿Leyspark Wielder	URG	uncommon	Creature – Human Warrior Wizard 	219	URG	1GUR	When Leyspark Wielder enters, if you cast it, add GUR. Spend this mana only to cast instant or sorcery spells.NEWLINEWhenever you cast an instant or sorcery spell, target creature gets +1/+1 and gains trample and haste until end of turn.	3/3		normal	CYB		!canoncard Cormela, Glamour Thief

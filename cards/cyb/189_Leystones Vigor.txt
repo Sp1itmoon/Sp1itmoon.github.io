@@ -1,0 +1,1 @@
+﻿Leystone's Vigor	G	uncommon	Enchantment	189	G	1G	Whenever you cast an instant spell, up to one target creature gets +2/+2 until end of turn.NEWLINEWhenever you cast a sorcery spell, reveal the top card of your library. If its mana value is less than the greatest power among creatures you control, put it into your hand.			normal	CYB		!canoncard karok Wrangler

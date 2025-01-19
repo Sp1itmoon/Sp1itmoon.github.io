@@ -1,0 +1,1 @@
+﻿Ragtag Squad	RG	uncommon	Sorcery	244	RG	1R/G	Choose a creature type. Create a 1/1 red creature token with haste of the chosen type.NEWLINEChoose a creature type. Create a 1/1 green creature token with trample of the chosen type.			normal	CYB		!canoncard Dragon FodderNEWLINE!addtoken RedRagtag;1;GreenRagtag;1;

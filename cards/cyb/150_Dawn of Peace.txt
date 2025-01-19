@@ -1,0 +1,1 @@
+﻿Dawn of Peace	R	mythic	Sorcery	150	R	5RR	Exile all creatures and all cards from each player’s hand. Any player may play those cards during their turn for as long as they remain exiled, and mana of any type can be spent to cast those spells.NEWLINEExile Dawn of Peace.			normal	CYB		!canoncard Scrambleverse

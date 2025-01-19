@@ -1,0 +1,1 @@
+﻿Taste for Malice		rare	Instant	20	C	CC	Integrate target creature or creature spell with mana value 3 or less. (Exile it, then you may choose a nonland permanent it’s integrated onto.)			normal	CYB		!canoncard Dimir CharmNEWLINE 101: Integrating is now optional.

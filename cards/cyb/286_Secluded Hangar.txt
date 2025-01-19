@@ -1,0 +1,1 @@
+﻿Secluded Hangar		uncommon	Land	286	G		Secluded Hangar enters tapped unless you control a basic non-Forest land.NEWLINET: Add G.NEWLINE2, T: Put a +1/+1 counter on target creature that entered this turn.			normal	CYB		!canoncard Oran-Rief, the Vastwood

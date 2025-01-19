@@ -1,0 +1,1 @@
+﻿Assimilate	W	uncommon	Sorcery	30	W	1C/W	Choose a creature type. Put a +1/+1 counter on each creature you control of the chosen type.NEWLINEIf you control two or more creatures that share a name, draw a card.			normal	CYB		!canoncard Rally the Ranks

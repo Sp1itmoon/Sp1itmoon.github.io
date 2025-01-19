@@ -1,0 +1,1 @@
+﻿Neotech Savant	U	uncommon	Creature – Human Artificer 	88	U	4U	FlyingNEWLINECreatures you control but don’t own get +1/+1 and have flying.NEWLINEWhenever a creature you control deals combat damage to a player, you may return it to its owner’s hand.	3/4		normal	CYB		!canoncard Windstorm Drake

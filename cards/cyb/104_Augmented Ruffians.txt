@@ -1,0 +1,1 @@
+﻿Augmented Ruffians	B	common	Creature – Human Warrior 	104	B	3B	Whenever Augmented Ruffians attacks, integrate the top card of defending player’s library. (Exile it, then you may choose a nonland permanent it’s integrated onto.)NEWLINEAugmented Ruffians gets +1/+1 for each card integrated onto it.	3/3		normal	CYB		!canoncard Thriving IbexNEWLINE 101: Integrating is now optional.

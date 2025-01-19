@@ -1,0 +1,1 @@
+﻿Festered Effluvium	B	mythic	Sorcery	123	B	XB	Mill X cards. For each land card milled this way, add BB. For each creature card milled this way, create a 2/2 black Zombie artifact creature token. For each noncreature, nonland card milled this way, draw a card.			normal	CYB		!canoncard Waste Not

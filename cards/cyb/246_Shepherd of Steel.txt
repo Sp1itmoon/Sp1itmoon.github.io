@@ -1,0 +1,1 @@
+﻿Shepherd of Steel	UG	uncommon	Creature – Human Artificer 	246	UG	2G/U	VigilanceNEWLINEWhenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on Shepherd of Steel.NEWLINEWhen Shepherd of Steel dies, put its counters on target creature you control.	3/2		normal	CYB		!canoncard Arcbound Tracker

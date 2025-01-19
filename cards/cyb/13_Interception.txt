@@ -1,0 +1,1 @@
+﻿Interception		uncommon	Sorcery	13	C	2C	Each player reveals their hand, then you choose a nonland card type. Each player discards all cards of the chosen type, then draws a card for each card they discarded this way.NEWLINEDraw a card.			normal	CYB		!canoncard Dark Deal

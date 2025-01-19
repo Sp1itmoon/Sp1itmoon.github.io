@@ -1,0 +1,1 @@
+﻿Scuttle Tank	U	uncommon	Artifact Creature – Crab Construct 	94	U	1U	Scuttle Tank enters with a defender counter on it.	2/3		adventure	CYB		Sidestep	U	Sorcery – Discharge 	U	1U	Target creature gets +2/+0 until end of turn and can’t be blocked this turn. (Remove a counter from this to cast a copy.)				!canoncard Backstreet Bruiser

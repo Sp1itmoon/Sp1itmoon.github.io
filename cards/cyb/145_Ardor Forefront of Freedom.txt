@@ -1,0 +1,1 @@
+﻿Ardor, Forefront of Freedom	R	rare	Legendary Creature – Human Soldier 	145	R	2RR	MenaceNEWLINECreature tokens you control get +1/+1, have haste, and must attack each combat if able.NEWLINEAt the beginning of combat on your turn, create a 1/1 red Soldier creature token.	3/3		normal	CYB		!canoncard Brudiclad, Telchor Engineer

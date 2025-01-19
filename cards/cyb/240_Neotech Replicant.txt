@@ -1,0 +1,1 @@
+﻿Neotech Replicant	UR	rare	Artifact Creature – Assembly-Worker 	240	UR	U/RU/R	FlyingNEWLINEWhenever you gain control of a permanent you don’t own or a permanent you don’t own enters under your control, create a token that’s a copy of it. Sacrifice the token at beginning of your next turn’s end step.	2/1		normal	CYB		!canoncard Faerie Artisans

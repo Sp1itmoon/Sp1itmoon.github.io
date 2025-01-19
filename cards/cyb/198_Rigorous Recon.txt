@@ -1,0 +1,1 @@
+﻿Rigorous Recon	G	common	Sorcery	198	G	G	Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Scry 1.			normal	CYB		!canoncard Lay of the Land

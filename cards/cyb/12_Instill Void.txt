@@ -1,0 +1,1 @@
+﻿Instill Void		common	Enchantment – Aura 	12	C	C	Enchant creatureNEWLINEWhenever enchanted creature deals or is dealt damage, exile it.			normal	CYB		!canoncard Mire Blight

@@ -1,0 +1,1 @@
+﻿Cyboreal Vengeance	G	rare	Sorcery	182	G	3GG	Untap all lands you control. Until end of turn, they become 1/1 Elemental artifact creatures with vigilance, indestructible, and haste in addition to their other types.			normal	CYB		!canoncard Rude Awakening

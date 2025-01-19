@@ -1,0 +1,1 @@
+﻿Defthand Infiltrator	U	uncommon	Creature – Elf Rogue 	78	U	3U	Whenever Defthand Infiltrator deals combat damage to a player, put a +1/+1 counter on it if it doesn’t have one on it.NEWLINEDefthand Infiltrator can’t be blocked as long as it has a counter on it.	3/2		normal	CYB		!canoncard Vortex Runner

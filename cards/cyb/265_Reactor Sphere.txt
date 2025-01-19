@@ -1,0 +1,1 @@
+﻿Reactor Sphere		common	Artifact	265	C	3	T: Add one mana of any type. (The types of mana are C, W, U, B, R, and G.)NEWLINET, Sacrifice two permanents named Reactor Sphere: Draw three cards.			normal	CYB		!canoncard Commander’s Sphere

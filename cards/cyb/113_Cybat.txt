@@ -1,0 +1,1 @@
+﻿Cybat	B	common	Artifact Creature – Bat Construct 	113	B	B	FlyingNEWLINEWhenever Cybat becomes tapped, you gain 1 life.	1/1		normal	CYB		!canoncard Healer’s Hawk

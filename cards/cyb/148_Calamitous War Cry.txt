@@ -1,0 +1,1 @@
+﻿Calamitous War Cry	R	uncommon	Instant	148	R	2R	Calamitous War Cry deals 2 damage to each creature. If there are six or more different creature types among creatures you control as you cast this spell, it deals 2 damage to each creature you don’t control instead.			normal	CYB		!canoncard Fiery Cannonade

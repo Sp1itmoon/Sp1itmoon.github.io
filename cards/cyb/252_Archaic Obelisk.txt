@@ -1,0 +1,1 @@
+﻿Archaic Obelisk		uncommon	Artifact	252	C	2	Archaic Obelisk enters with a charge counter on it.NEWLINET: Mill two cards, then you may remove a charge counter from Archaic Obelisk. If you do, return a card milled this way to your hand.			normal	CYB		!canoncard Jalum Tome

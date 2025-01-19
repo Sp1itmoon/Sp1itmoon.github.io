@@ -1,0 +1,1 @@
+﻿Imposing Iteration	WB	uncommon	Sorcery	216	WB	2CWB	Create three 1/1 colorless Cyborg artifact creature tokens, then you gain 1 life for each artifact you control. Each opponent loses that much life.			normal	CYB		!canoncard Call to the Feast

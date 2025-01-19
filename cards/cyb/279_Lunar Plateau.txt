@@ -1,0 +1,1 @@
+﻿Lunar Plateau		common	Land	279	WB		Lunar Plateau enters tapped.NEWLINET: Add W or B.NEWLINE1, Discard Lunar Plateau: Scry 2.			normal	CYB		!canoncard Orzhov Guildgate

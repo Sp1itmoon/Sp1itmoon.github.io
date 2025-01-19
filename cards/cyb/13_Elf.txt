@@ -1,0 +1,1 @@
+﻿Elf	G	common	Token Creature – Elf 	13	G			1/1		token	CYB		!related Stand Strong<2>;

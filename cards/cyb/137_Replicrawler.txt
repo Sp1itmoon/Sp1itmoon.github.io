@@ -1,0 +1,1 @@
+﻿Replicrawler	B	rare	Artifact Creature – Spider Construct 	137	B	1B	ReachNEWLINEReplicrawler gets +1/+1 for each other artifact creature you control.NEWLINEIf you would create a token, you may pay B. If you do, create a token that’s a copy of Replicrawler instead.	1/1		normal	CYB		!canoncard Pack Rat

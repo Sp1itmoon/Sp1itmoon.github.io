@@ -1,0 +1,1 @@
+﻿Holo-Map		common	Artifact	257	C	1	Holo-Map enters with two charge counters on it.NEWLINE1, T, Remove a charge counter from Holo-Map: Target creature can’t be blocked this turn. Scry 2.			normal	CYB		!canoncard Wedding Invitation

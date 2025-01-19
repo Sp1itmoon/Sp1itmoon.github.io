@@ -1,0 +1,1 @@
+﻿Escorted Captain	WB	common	Creature – Human Soldier 	236	WB	2W/B	When Escorted Captain enters or dies, create a 1/1 colorless Cyborg artifact creature token.	1/1		normal	CYB		!canoncard Undercellar Myconid

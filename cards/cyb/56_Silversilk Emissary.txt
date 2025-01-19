@@ -1,0 +1,1 @@
+﻿Silversilk Emissary	W	common	Creature – Vukoroq Advisor 	56	W	3C/W	FlyingNEWLINEWhenever Silversilk Emissary attacks, put a +1/+1 counter on another Advisor you control unless an opponent pays 2.	2/3		normal	CYB		!canoncard Anointer of Valor

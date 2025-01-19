@@ -1,0 +1,1 @@
+﻿Inner Ring's Pupil	B	rare	Creature – Human Rogue 	126	B	2BB	Whenever Inner Ring’s Pupil enters or attacks, target player discards a card. If they can’t, they sacrifice a creature. If they can’t, they lose 7 life.	3/3		normal	CYB		!canoncard Urgoros, the Empty One

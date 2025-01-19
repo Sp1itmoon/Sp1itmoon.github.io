@@ -1,0 +1,1 @@
+﻿Programmed Pursuer	B	special	Artifact Creature – Construct Rogue 	0	B	2B	DeathtouchNEWLINEWhenever one or more artifact creatures you control deal combat damage to an opponent, you draw a card and you lose 1 life.	1/4		normal	CYB		!canoncard Mindblade RenderNEWLINE!promo

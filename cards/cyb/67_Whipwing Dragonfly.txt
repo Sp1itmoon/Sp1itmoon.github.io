@@ -1,0 +1,1 @@
+﻿Whipwing Dragonfly	W	common	Creature – Insect 	67	W	2W	FlyingNEWLINEWhen Whipwing Dragonfly enters, you gain 2 life.	2/2		normal	CYB		!canoncard Kemba’s Skyguard

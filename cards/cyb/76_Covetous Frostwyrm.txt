@@ -1,0 +1,1 @@
+﻿Covetous Frostwyrm	U	rare	Creature – Dragon 	76	U	2U	Flying, ward 1NEWLINEWhenever you cast an instant or sorcery spell, mill a card. Return an instant or sorcery card milled this way to your hand. If you can’t, put a +1/+1 counter on Covetous Frostwyrm.	2/2		normal	CYB		!canoncard Archmage Emeritus

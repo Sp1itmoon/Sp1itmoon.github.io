@@ -1,0 +1,1 @@
+﻿Battle Physicist	U	rare	Creature – Human Wizard Warrior 	72	U	1U	Ward 2NEWLINEU: Spells you cast this turn can be cast as though they had flash.	1/3		normal	CYB		!canoncard Vedalken Orrery

@@ -1,0 +1,1 @@
+﻿Zombie	B	common	Token Artifact Creature – Zombie 	8	B			2/2		token	CYB		!related Festered Effluvium<1>;

@@ -1,0 +1,1 @@
+﻿Tense Negotiations	W	special	Enchantment	0	W	W	At the beginning of your end step, you may pay 2. If you do, you gain 2 life, then target opponent may pay 2. If they don’t, you draw a card.			normal	CYB		!canoncard Esper SentinelNEWLINE!promo

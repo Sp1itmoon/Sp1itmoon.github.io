@@ -1,0 +1,1 @@
+﻿The Shattered Throne		rare	Legendary Artifact	267	C	4	Whenever one or more creature cards are put into your graveyard from anywhere, you may choose one and pay X, where X is the chosen card’s mana value. If you do, create a tapped token that’s a copy of it.NEWLINET: Target player mills two cards.			normal	CYB		!canoncard Dollhouse of Horrors

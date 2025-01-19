@@ -1,0 +1,1 @@
+﻿Stand Strong	G	common	Sorcery	206	G	3G	Create two 1/1 green Elf creature tokens. Then if there are six or more different creature types among creatures you control, put a +1/+1 counter on each of those tokens.NEWLINEDraw a card.			normal	CYB		!canoncard Joraga Visionary

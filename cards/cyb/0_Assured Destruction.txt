@@ -1,0 +1,1 @@
+﻿Assured Destruction	W	special	Sorcery	0	W	1WW	Choose any number –NEWLINE• Each player sacrifices an enchantment.NEWLINE• Each player sacrifices an artifact.NEWLINE• Each player sacrifices a creature.			normal	CYB		!canoncard CataclysmNEWLINE!promo

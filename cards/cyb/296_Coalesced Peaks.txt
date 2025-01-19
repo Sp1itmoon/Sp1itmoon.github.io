@@ -1,0 +1,1 @@
+﻿Coalesced Peaks		special	Land	296	R		T: Add C.NEWLINEIf a spell or ability you control would produce C, you may pay 1 life. If you do, it produces R instead.			normal	CYB		!canoncard Karpulsan ForestNEWLINE!update

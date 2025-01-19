@@ -1,0 +1,1 @@
+﻿Treasure		common	Token Artifact – Treasure 	21	C		T, Sacrifice this artifact: Add one mana of any color.			token	CYB		!related Marilye, Dreaming Big<1>;Rebuilding of Londel<1>;Alcadia, Cardinal Judge<1>;The Omnithority<1>;Hallowed Chamber<2>;

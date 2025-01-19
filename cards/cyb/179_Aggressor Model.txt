@@ -1,0 +1,1 @@
+﻿Aggressor Model	G	common	Artifact Creature – Construct 	179	G	3G	Aggressor Model enters with a +1/+1 counter on it.	3/2		adventure	CYB		Assault Mode	G	Sorcery – Discharge 	G	1G	Target creature gets +2/+0 until end of turn and must be blocked this turn if able. (Remove a counter from this to cast a copy.)				!canoncard Gaea’s Protector

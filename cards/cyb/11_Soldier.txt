@@ -1,0 +1,1 @@
+﻿Soldier	R	common	Token Creature – Soldier 	11	R			1/1		token	CYB		!related Ardor, Forefront of Freedom<1>;Edgeland Pledge<1>;

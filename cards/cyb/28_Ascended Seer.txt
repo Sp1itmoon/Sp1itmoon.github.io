@@ -1,0 +1,1 @@
+﻿Ascended Seer	W	uncommon	Creature – Human Cleric Advisor 	28	W	W	Whenever Ascended Seer attacks, it gets +1/+0 until end of turn unless defending player pays 1.	1/2		normal	CYB		!canoncard Isamaru, Hound of Konda

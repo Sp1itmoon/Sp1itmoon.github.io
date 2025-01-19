@@ -1,0 +1,1 @@
+﻿Auto Sifter		common	Artifact	253	C	1	1, Sacrifice Auto Sifter: Search your library for a basic land card, reveal it, put it into your hand, the shuffle.			normal	CYB		!canoncard Expedition Map

@@ -1,0 +1,1 @@
+﻿Field Laboratory		common	Land	274	UG		Field Laboratory enters tapped.NEWLINET: Add G or U.NEWLINE1, Discard Field Laboratory: Scry 2.			normal	CYB		!canoncard Simic Guildgate

@@ -1,0 +1,1 @@
+﻿Unity		rare	Enchantment	21	C	CCC	Whenever you cast a colorless spell, you may pay C. If you do, copy it. You may choose new targets for the copy.NEWLINEWhenever a creature you control attacks, put a +1/+1 counter on it for each other creature you control with the same name as that creature.			normal	CYB		!canoncard Mirrorworks

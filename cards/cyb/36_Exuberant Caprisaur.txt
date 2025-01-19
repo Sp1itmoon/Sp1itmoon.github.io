@@ -1,0 +1,1 @@
+﻿Exuberant Caprisaur	W	uncommon	Creature – Goat Dinosaur 	36	W	4WW	FlashNEWLINEVigilanceNEWLINEWhenever Exuberant Caprisaur attacks or blocks, you gain 2 life. Then if your life total is greater than 20, put two +1/+1 counters on Exuberant Caprisaur.	4/4		normal	CYB		!canoncard Twinblade Paladin

@@ -1,0 +1,1 @@
+﻿Bind Life to Steel	WB	special	Sorcery	0	WB	XW/BW/B	Return any number of target creature cards with total mana value twice X or less from your graveyard to the battlefield. They’re artifacts in addition to their other types.			normal	CYB		!canoncard Agadeem’s AwakeningNEWLINE!promoNEWLINE!design Splitmoon

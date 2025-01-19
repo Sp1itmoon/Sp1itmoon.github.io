@@ -1,0 +1,1 @@
+﻿Steelhorn Crusher	B	common	Artifact Creature – Minotaur Construct 	141	B	4B	Whenever Steelhorn Crusher or another artifact you control enters, artifact creatures you control gain menace until end of turn.	4/4		normal	CYB		!canoncard Baleful Beholder

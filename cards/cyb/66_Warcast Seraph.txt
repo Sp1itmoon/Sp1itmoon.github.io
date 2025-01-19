@@ -1,0 +1,1 @@
+﻿Warcast Seraph	W	uncommon	Artifact Creature – Angel Soldier 	66	W	3W	FlyingNEWLINEWhen Warcast Seraph enters, put a +1/+1 counter on each other artifact creature you control.	3/2		normal	CYB		!canoncard Angelic Quartermaster

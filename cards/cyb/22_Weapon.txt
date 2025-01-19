@@ -1,0 +1,1 @@
+﻿Weapon		common	Token Artifact – Equipment Weapon 	22	C		Equipped creature gets +1/+1.NEWLINEEquip 2			token	CYB		!related Rebuilding of Londel<1>;Brandish Greatness<1>;Plasma Elite<2>;Plasma Armory<1>;

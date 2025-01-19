@@ -1,0 +1,1 @@
+﻿Withered Survivor	B	common	Creature – Human Scout 	143	B	3B	MenaceNEWLINECybersoul 3B (3B: Transform this. Each artifact you tap while activating pays for 1. Activate only as a sorcery.)	3/3		transform double faced	CYB		Silvereye Scout	B	Artifact Creature – Cyborg Scout 	B		Silvereye Scout can’t be blocked except by three or more creatures.	4/4			!canoncard Underworld Cerberus

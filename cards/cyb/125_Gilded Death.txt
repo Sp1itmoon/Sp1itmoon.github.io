@@ -1,0 +1,1 @@
+﻿Gilded Death	B	uncommon	Creature – Skeleton 	125	B	3BB	Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.NEWLINEBB, Exile Gilded Death and six other cards from your graveyard: Create a tapped token that’s a copy of Gilded Death.	3/3		normal	CYB		!canoncard Poison-Tip Archer
