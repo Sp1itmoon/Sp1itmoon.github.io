@@ -1,10 +1,10 @@
+50 Shades of Grey	#2c3e50	#bdc3c7
 Purple White	#ba5370	#f4e2d8
 Piglet	#ee9ca7	#ffdde1
 Sexy Blue	#2193b0	#6dd5ed
 Roseanna	#ffafbd	#ffc3a0
 Purple Love	#753a88	#cc2b5e
 Mauve	#42275a	#734b6d
-50 Shades of Grey	#2c3e50	#bdc3c7
 A Lost Memory	#de6262	#ffb88c
 Socialive	#06beb6	#48b1bf
 Cherry	#eb3349	#f45c43
