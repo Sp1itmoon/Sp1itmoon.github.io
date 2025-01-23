@@ -3299,8 +3299,6 @@
 			}
 		},
 		]
-	[ReminderSlot(1)]
-	1 Reminder
 	[RareSlot(1)]
 	2 Cyboreal Vengeance
 		2 Unity
