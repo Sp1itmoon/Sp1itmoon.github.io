@@ -3299,6 +3299,8 @@
 			}
 		},
 		]
+	[ReminderSlot(1)]
+	1 Reminder
 	[RareSlot(1)]
 	2 Cyboreal Vengeance
 		2 Unity
@@ -3562,12 +3564,6 @@
 		30 Instant Adaptation
 		30 Silversilk Emissary
 		30 Ironcliff Blaster
-		30 Plains
-		30 Island
-		30 Swamp
-		30 Mountain
-		30 Forest
-		30 Wastes
 		30 Runway Mech
 		30 Steamveil Model
 		30 Aggressor Model
