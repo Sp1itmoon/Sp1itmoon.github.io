@@ -1,0 +1,3597 @@
+﻿[CustomCards]
+	[	{
+			"name": "Lithe Stalker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Cat Construct ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/45_Lithe Stalker.png"
+			}
+		},
+		{
+			"name": "Skyward Magus",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/96_Skyward Magus.png"
+			}
+		},
+		{
+			"name": "Aqueous Drake",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Drake ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/70_Aqueous Drake.png"
+			}
+		},
+		{
+			"name": "Nyamphibian",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat Frog ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/134_Nyamphibian.png"
+			}
+		},
+		{
+			"name": "Wistful Delegate",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/68_Wistful Delegate.png"
+			}
+		},
+		{
+			"name": "Retrofit Paladin",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/52_Retrofit Paladin.png"
+			}
+		},
+		{
+			"name": "Priestess of Chains",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/49_Priestess of Chains_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/49_Priestess of Chains_back.png"
+				}
+			}
+		},
+		{
+			"name": "Stehlian Reverend",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/59_Stehlian Reverend_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/59_Stehlian Reverend_back.png"
+				}
+			}
+		},
+		{
+			"name": "Sworn Loyalist",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/61_Sworn Loyalist_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/61_Sworn Loyalist_back.png"
+				}
+			}
+		},
+		{
+			"name": "Whipwing Dragonfly",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/67_Whipwing Dragonfly.png"
+			}
+		},
+		{
+			"name": "Dated Mechanoid",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Construct Knight ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/35_Dated Mechanoid.png"
+			}
+		},
+		{
+			"name": "Escorted Captain",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/236_Escorted Captain.png"
+			}
+		},
+		{
+			"name": "Conserve Ideals",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/32_Conserve Ideals.png"
+			}
+		},
+		{
+			"name": "Assembled Assault",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/29_Assembled Assault.png"
+			}
+		},
+		{
+			"name": "Galvanize",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/38_Galvanize.png"
+			}
+		},
+		{
+			"name": "Cut Aside",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/33_Cut Aside.png"
+			}
+		},
+		{
+			"name": "Holding Cell",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/41_Holding Cell.png"
+			}
+		},
+		{
+			"name": "Deeptreader Arcanist",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/77_Deeptreader Arcanist.png"
+			}
+		},
+		{
+			"name": "Industrialize",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/82_Industrialize.png"
+			}
+		},
+		{
+			"name": "Neotech Skyguard",
+			"rarity": "common",
+			"mana_cost": "{2}{U/R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/241_Neotech Skyguard.png"
+			}
+		},
+		{
+			"name": "Emulation Expert",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/80_Emulation Expert.png"
+			}
+		},
+		{
+			"name": "Contain for Study",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/75_Contain for Study.png"
+			}
+		},
+		{
+			"name": "Mage Hand",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/86_Mage Hand.png"
+			}
+		},
+		{
+			"name": "Siphon Energy",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/95_Siphon Energy.png"
+			}
+		},
+		{
+			"name": "Forced Ejection",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/81_Forced Ejection.png"
+			}
+		},
+		{
+			"name": "Battery Drain",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/71_Battery Drain.png"
+			}
+		},
+		{
+			"name": "Recharge",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/91_Recharge.png"
+			}
+		},
+		{
+			"name": "Withered Survivor",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/143_Withered Survivor_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/143_Withered Survivor_back.png"
+				}
+			}
+		},
+		{
+			"name": "Survey the Area",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/98_Survey the Area.png"
+			}
+		},
+		{
+			"name": "Dissolve into Data",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/117_Dissolve into Data.png"
+			}
+		},
+		{
+			"name": "Data Wipe",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/115_Data Wipe.png"
+			}
+		},
+		{
+			"name": "Corpse Experiment",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/110_Corpse Experiment.png"
+			}
+		},
+		{
+			"name": "Iris Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/127_Iris Agent_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/127_Iris Agent_back.png"
+				}
+			}
+		},
+		{
+			"name": "Cybat",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Bat Construct ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/113_Cybat.png"
+			}
+		},
+		{
+			"name": "Iris Cultist",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/128_Iris Cultist_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/128_Iris Cultist_back.png"
+				}
+			}
+		},
+		{
+			"name": "Steelhorn Crusher",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Minotaur Construct ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/141_Steelhorn Crusher.png"
+			}
+		},
+		{
+			"name": "Artificial Unlife",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/103_Artificial Unlife.png"
+			}
+		},
+		{
+			"name": "Scrapweight",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/139_Scrapweight.png"
+			}
+		},
+		{
+			"name": "High Voltage",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/157_High Voltage.png"
+			}
+		},
+		{
+			"name": "Vagrant Sorceress",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/174_Vagrant Sorceress.png"
+			}
+		},
+		{
+			"name": "Revved Robo",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct Soldier ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/169_Revved Robo.png"
+			}
+		},
+		{
+			"name": "Drone Swarm",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/151_Drone Swarm.png"
+			}
+		},
+		{
+			"name": "Machinations",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/132_Machinations.png"
+			}
+		},
+		{
+			"name": "Iron Steambreaker",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/158_Iron Steambreaker.png"
+			}
+		},
+		{
+			"name": "Flametip Goliath",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}",
+			"type": "Creature — Elemental Insect ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/237_Flametip Goliath.png"
+			}
+		},
+		{
+			"name": "Static Augment",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/171_Static Augment.png"
+			}
+		},
+		{
+			"name": "Minoan Engineer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Artificer ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/162_Minoan Engineer.png"
+			}
+		},
+		{
+			"name": "Resist in the Ranks",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/168_Resist in the Ranks.png"
+			}
+		},
+		{
+			"name": "Pull the Wires",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/165_Pull the Wires.png"
+			}
+		},
+		{
+			"name": "Vanguard Recruit",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Soldier ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/175_Vanguard Recruit.png"
+			}
+		},
+		{
+			"name": "Muse",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/163_Muse.png"
+			}
+		},
+		{
+			"name": "Explosive Redemption",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/153_Explosive Redemption.png"
+			}
+		},
+		{
+			"name": "Lead the Charge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/160_Lead the Charge.png"
+			}
+		},
+		{
+			"name": "Rigorous Recon",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/198_Rigorous Recon.png"
+			}
+		},
+		{
+			"name": "Orbinoid",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Orb ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/192_Orbinoid.png"
+			}
+		},
+		{
+			"name": "Endangered Scinok",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Rhino Beast ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/183_Endangered Scinok.png"
+			}
+		},
+		{
+			"name": "Massive Predation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/191_Massive Predation.png"
+			}
+		},
+		{
+			"name": "Workshop Helper",
+			"rarity": "common",
+			"mana_cost": "{G/U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/250_Workshop Helper.png"
+			}
+		},
+		{
+			"name": "Simpler Times",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/203_Simpler Times.png"
+			}
+		},
+		{
+			"name": "Valiant Resistance",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/209_Valiant Resistance.png"
+			}
+		},
+		{
+			"name": "Londel Sharpshot",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/190_Londel Sharpshot.png"
+			}
+		},
+		{
+			"name": "Ozanwood Murk",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fish Beast ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/196_Ozanwood Murk.png"
+			}
+		},
+		{
+			"name": "Scrapmail Conscripts",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Lizard Warrior ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/200_Scrapmail Conscripts.png"
+			}
+		},
+		{
+			"name": "Impregnability",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/186_Impregnability.png"
+			}
+		},
+		{
+			"name": "Skysnipe",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/205_Skysnipe.png"
+			}
+		},
+		{
+			"name": "Stand Strong",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/206_Stand Strong.png"
+			}
+		},
+		{
+			"name": "Atomize",
+			"rarity": "common",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/2_Atomize.png"
+			}
+		},
+		{
+			"name": "Inessence",
+			"rarity": "common",
+			"mana_cost": "{2}{C}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/10_Inessence.png"
+			}
+		},
+		{
+			"name": "First Contact",
+			"rarity": "common",
+			"mana_cost": "{C}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/7_First Contact.png"
+			}
+		},
+		{
+			"name": "Warp Figure",
+			"rarity": "common",
+			"mana_cost": "{1}{C}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/25_Warp Figure.png"
+			}
+		},
+		{
+			"name": "Savage Weldbeast",
+			"rarity": "common",
+			"mana_cost": "{4}{C}",
+			"type": "Creature — Vukoroq Beast ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/17_Savage Weldbeast.png"
+			}
+		},
+		{
+			"name": "Vision Herald",
+			"rarity": "common",
+			"mana_cost": "{2}{C}",
+			"type": "Creature — Vukoroq Advisor ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/23_Vision Herald.png"
+			}
+		},
+		{
+			"name": "Masked Envoy",
+			"rarity": "common",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Vukoroq Advisor ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/15_Masked Envoy.png"
+			}
+		},
+		{
+			"name": "Hivecaste Vukoroq",
+			"rarity": "common",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Vukoroq Insect ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/9_Hivecaste Vukoroq.png"
+			}
+		},
+		{
+			"name": "Cast Reflection",
+			"rarity": "common",
+			"mana_cost": "{3}{C}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/4_Cast Reflection.png"
+			}
+		},
+		{
+			"name": "Omnoid Destroyer",
+			"rarity": "common",
+			"mana_cost": "{3}{C}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/262_Omnoid Destroyer.png"
+			}
+		},
+		{
+			"name": "Instill Void",
+			"rarity": "common",
+			"mana_cost": "{C}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/12_Instill Void.png"
+			}
+		},
+		{
+			"name": "Seeker Orbs",
+			"rarity": "common",
+			"mana_cost": "{1}{C}",
+			"type": "Artifact Creature — Orb ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/266_Seeker Orbs.png"
+			}
+		},
+		{
+			"name": "Plasma Armory",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/263_Plasma Armory.png"
+			}
+		},
+		{
+			"name": "Reactor Sphere",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/265_Reactor Sphere.png"
+			}
+		},
+		{
+			"name": "Auto Sifter",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/253_Auto Sifter.png"
+			}
+		},
+		{
+			"name": "Supercharger",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Artifact",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/270_Supercharger.png"
+			}
+		},
+		{
+			"name": "Holo-Map",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/257_Holo-Map.png"
+			}
+		},
+		{
+			"name": "Field Laboratory",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/274_Field Laboratory.png"
+			}
+		},
+		{
+			"name": "Valley Village",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/289_Valley Village.png"
+			}
+		},
+		{
+			"name": "Steam Colony",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/287_Steam Colony.png"
+			}
+		},
+		{
+			"name": "Nebulous Ring",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/282_Nebulous Ring.png"
+			}
+		},
+		{
+			"name": "Dark Horizon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/272_Dark Horizon.png"
+			}
+		},
+		{
+			"name": "Lunar Plateau",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/279_Lunar Plateau.png"
+			}
+		},
+		{
+			"name": "Capital Zenith",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/271_Capital Zenith.png"
+			}
+		},
+		{
+			"name": "Warpway Rings",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/290_Warpway Rings.png"
+			}
+		},
+		{
+			"name": "Silverbone Chromate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{C}{B}",
+			"type": "Creature — Vukoroq Skeleton ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/140_Silverbone Chromate.png"
+			}
+		},
+		{
+			"name": "Radiant Chromate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{C}{W}",
+			"type": "Creature — Vukoroq Advisor ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/51_Radiant Chromate.png"
+			}
+		},
+		{
+			"name": "Wayward Drek",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/226_Wayward Drek_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/226_Wayward Drek_back.png"
+				}
+			}
+		},
+		{
+			"name": "Inspired Denizen",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Azra Citizen ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/217_Inspired Denizen.png"
+			}
+		},
+		{
+			"name": "Brandish Greatness",
+			"rarity": "common",
+			"mana_cost": "{3}{W/B}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/230_Brandish Greatness.png"
+			}
+		},
+		{
+			"name": "Dark Ambassador",
+			"rarity": "common",
+			"mana_cost": "{4}{C/W}",
+			"type": "Creature — Vukoroq Advisor ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/34_Dark Ambassador.png"
+			}
+		},
+		{
+			"name": "Mesmage",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/239_Mesmage.png"
+			}
+		},
+		{
+			"name": "Barded Brachion",
+			"rarity": "common",
+			"mana_cost": "{3}{R/G}",
+			"type": "Creature — Dinosaur Beast ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/228_Barded Brachion.png"
+			}
+		},
+		{
+			"name": "Instant Adaptation",
+			"rarity": "common",
+			"mana_cost": "{C}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/11_Instant Adaptation.png"
+			}
+		},
+		{
+			"name": "Silversilk Emissary",
+			"rarity": "common",
+			"mana_cost": "{3}{C/W}",
+			"type": "Creature — Vukoroq Advisor ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/56_Silversilk Emissary.png"
+			}
+		},
+		{
+			"name": "Ironcliff Blaster",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Dwarf Soldier ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/159_Ironcliff Blaster.png"
+			}
+		},
+		{
+			"name": "Cyborg",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Cyborg ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/16_Cyborg.png"
+			}
+		},
+		{
+			"name": "Mercurial Wright",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{C}",
+			"type": "Artifact Creature — Vukoroq Artificer ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/261_Mercurial Wright.png"
+			}
+		},
+		{
+			"name": "Beguiling Stewards",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{C}",
+			"type": "Creature — Vukoroq Advisor ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/3_Beguiling Stewards.png"
+			}
+		},
+		{
+			"name": "Cosmic Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{C}{C}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/254_Cosmic Colossus.png"
+			}
+		},
+		{
+			"name": "Offerings to Sky Gods",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{C}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/16_Offerings to Sky Gods.png"
+			}
+		},
+		{
+			"name": "Interception",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{C}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/13_Interception.png"
+			}
+		},
+		{
+			"name": "Solidarity",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/2_Solidarity.png"
+			}
+		},
+		{
+			"name": "Xavvac's Reprocessing",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/26_Xavvac's Reprocessing.png"
+			}
+		},
+		{
+			"name": "Spatial Rift",
+			"rarity": "uncommon",
+			"mana_cost": "{C}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/18_Spatial Rift.png"
+			}
+		},
+		{
+			"name": "Fluid Formation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{C}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/8_Fluid Formation.png"
+			}
+		},
+		{
+			"name": "Assimilate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{C/W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/30_Assimilate.png"
+			}
+		},
+		{
+			"name": "Tense Negotiations",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/63_Tense Negotiations.png"
+			}
+		},
+		{
+			"name": "Overt Banishment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/48_Overt Banishment.png"
+			}
+		},
+		{
+			"name": "Royal Templar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/53_Royal Templar_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/53_Royal Templar_back.png"
+				}
+			}
+		},
+		{
+			"name": "Ascended Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric Advisor ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/28_Ascended Seer.png"
+			}
+		},
+		{
+			"name": "Warcast Seraph",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Angel Soldier ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/66_Warcast Seraph.png"
+			}
+		},
+		{
+			"name": "Exuberant Caprisaur",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Goat Dinosaur ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/36_Exuberant Caprisaur.png"
+			}
+		},
+		{
+			"name": "Assured Destruction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/31_Assured Destruction.png"
+			}
+		},
+		{
+			"name": "Unshackle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/65_Unshackle.png"
+			}
+		},
+		{
+			"name": "Welding Rig",
+			"rarity": "uncommon",
+			"mana_cost": "{W/B}",
+			"type": "Artifact",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/249_Welding Rig.png"
+			}
+		},
+		{
+			"name": "Repulsion Field",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/92_Repulsion Field.png"
+			}
+		},
+		{
+			"name": "Imposing Iteration",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{C}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/216_Imposing Iteration.png"
+			}
+		},
+		{
+			"name": "Teqien Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/99_Teqien Overseer.png"
+			}
+		},
+		{
+			"name": "Defthand Infiltrator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elf Rogue ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/78_Defthand Infiltrator.png"
+			}
+		},
+		{
+			"name": "Dynamo Glyphs",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Enchantment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/79_Dynamo Glyphs.png"
+			}
+		},
+		{
+			"name": "Neotech Savant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/88_Neotech Savant.png"
+			}
+		},
+		{
+			"name": "Artisan's Studio",
+			"rarity": "uncommon",
+			"mana_cost": "{G/U}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/227_Artisan's Studio.png"
+			}
+		},
+		{
+			"name": "No Time to Waste",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/89_No Time to Waste.png"
+			}
+		},
+		{
+			"name": "Rebuke the Mighty",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/90_Rebuke the Mighty.png"
+			}
+		},
+		{
+			"name": "Earthly Penchants",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/119_Earthly Penchants.png"
+			}
+		},
+		{
+			"name": "Cull Populace",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{C/B}{C/B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/112_Cull Populace.png"
+			}
+		},
+		{
+			"name": "Rooftop Slink",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/138_Rooftop Slink_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/138_Rooftop Slink_back.png"
+				}
+			}
+		},
+		{
+			"name": "Celise's Vengeance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/109_Celise's Vengeance.png"
+			}
+		},
+		{
+			"name": "Programmed Pursuer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Construct Rogue ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/135_Programmed Pursuer.png"
+			}
+		},
+		{
+			"name": "Blackout Grifter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Pirate ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/106_Blackout Grifter_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/106_Blackout Grifter_back.png"
+				}
+			}
+		},
+		{
+			"name": "Dissect Intel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/116_Dissect Intel.png"
+			}
+		},
+		{
+			"name": "Feed on the Meek",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/122_Feed on the Meek.png"
+			}
+		},
+		{
+			"name": "Calamitous War Cry",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/148_Calamitous War Cry.png"
+			}
+		},
+		{
+			"name": "Conscript",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/149_Conscript.png"
+			}
+		},
+		{
+			"name": "Field Opportunist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/154_Field Opportunist.png"
+			}
+		},
+		{
+			"name": "Wyrmshot",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/177_Wyrmshot.png"
+			}
+		},
+		{
+			"name": "Pyrewing Penancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Angel Warrior ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/166_Pyrewing Penancer.png"
+			}
+		},
+		{
+			"name": "Arid Outrider",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/146_Arid Outrider.png"
+			}
+		},
+		{
+			"name": "Plasmana Hellkite",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Dragon Construct ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/164_Plasmana Hellkite.png"
+			}
+		},
+		{
+			"name": "Brass Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/147_Brass Oracle.png"
+			}
+		},
+		{
+			"name": "Gift of Inspiration",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/156_Gift of Inspiration.png"
+			}
+		},
+		{
+			"name": "Sharesh's Bravery",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/201_Sharesh's Bravery.png"
+			}
+		},
+		{
+			"name": "Battlehymn Howler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wolf Warrior ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/181_Battlehymn Howler.png"
+			}
+		},
+		{
+			"name": "Sustained Fire",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/207_Sustained Fire.png"
+			}
+		},
+		{
+			"name": "Leystone's Vigor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/189_Leystone's Vigor.png"
+			}
+		},
+		{
+			"name": "Ancient Cloudgrazer",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/180_Ancient Cloudgrazer.png"
+			}
+		},
+		{
+			"name": "Hostile Evolution",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/184_Hostile Evolution.png"
+			}
+		},
+		{
+			"name": "Cyboreal Vengeance",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/182_Cyboreal Vengeance.png"
+			}
+		},
+		{
+			"name": "Gravity Gauntlets",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/256_Gravity Gauntlets.png"
+			}
+		},
+		{
+			"name": "Leyshard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/258_Leyshard.png"
+			}
+		},
+		{
+			"name": "Altar of Chrome",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/251_Altar of Chrome.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/284_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/278_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/288_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/281_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/275_Forest.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/291_Wastes.png"
+			}
+		},
+		{
+			"name": "Neo Stehlia",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/283_Neo Stehlia.png"
+			}
+		},
+		{
+			"name": "High Teqien",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/277_High Teqien.png"
+			}
+		},
+		{
+			"name": "Hallowed Chamber",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/276_Hallowed Chamber.png"
+			}
+		},
+		{
+			"name": "Edgeland Market",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/273_Edgeland Market.png"
+			}
+		},
+		{
+			"name": "Goat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goat ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/5_Goat.png"
+			}
+		},
+		{
+			"name": "Secluded Hangar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/286_Secluded Hangar.png"
+			}
+		},
+		{
+			"name": "Mirrormeld Spire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/280_Mirrormeld Spire.png"
+			}
+		},
+		{
+			"name": "Neotech Exploiter",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/220_Neotech Exploiter.png"
+			}
+		},
+		{
+			"name": "Thopter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Thopter ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/20_Thopter.png"
+			}
+		},
+		{
+			"name": "Ragtag Squad",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/G}",
+			"type": "Sorcery",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/244_Ragtag Squad.png"
+			}
+		},
+		{
+			"name": "Green Ragtag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/14_Green Ragtag.png"
+			}
+		},
+		{
+			"name": "Essence Archivist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{C/B}",
+			"type": "Creature — Vukoroq Wizard ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/120_Essence Archivist.png"
+			}
+		},
+		{
+			"name": "Synod of Sanctions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{C/W}",
+			"type": "Creature — Vukoroq Advisor ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/62_Synod of Sanctions.png"
+			}
+		},
+		{
+			"name": "Highseas Renegade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U/R}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/238_Highseas Renegade.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Zombie ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/8_Zombie.png"
+			}
+		},
+		{
+			"name": "Archaic Obelisk",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/252_Archaic Obelisk.png"
+			}
+		},
+		{
+			"name": "Unity",
+			"rarity": "rare",
+			"mana_cost": "{C}{C}{C}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/21_Unity.png"
+			}
+		},
+		{
+			"name": "Malicious Skycleaver",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Dragon ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/133_Malicious Skycleaver_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/133_Malicious Skycleaver_back.png"
+				}
+			}
+		},
+		{
+			"name": "Data Weaver",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Azra Warlock ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/114_Data Weaver.png"
+			}
+		},
+		{
+			"name": "Eleanor, Royal Captain",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/235_Eleanor, Royal Captain_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/235_Eleanor, Royal Captain_back.png"
+				}
+			}
+		},
+		{
+			"name": "Elf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elf ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/13_Elf.png"
+			}
+		},
+		{
+			"name": "Sharesh, Leader of the Lost",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Lizard Mercenary ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/223_Sharesh, Leader of the Lost.png"
+			}
+		},
+		{
+			"name": "General Diadem, Usurper",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/39_General Diadem, Usurper.png"
+			}
+		},
+		{
+			"name": "Runway Mech",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/93_Runway Mech.png"
+			}
+		},
+		{
+			"name": "Scuttle Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Crab Construct ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/94_Scuttle Tank.png"
+			}
+		},
+		{
+			"name": "Steamveil Model",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/97_Steamveil Model.png"
+			}
+		},
+		{
+			"name": "Tidewake Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/101_Tidewake Walker.png"
+			}
+		},
+		{
+			"name": "Aethersteel Pouncer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Cat Construct ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/178_Aethersteel Pouncer.png"
+			}
+		},
+		{
+			"name": "Aggressor Model",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/179_Aggressor Model.png"
+			}
+		},
+		{
+			"name": "Runerock Automaton",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/199_Runerock Automaton.png"
+			}
+		},
+		{
+			"name": "Teslahammer Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Artifact Creature — Giant Construct ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/208_Teslahammer Giant.png"
+			}
+		},
+		{
+			"name": "Skylance Escort",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/224_Skylance Escort.png"
+			}
+		},
+		{
+			"name": "Qimis, Central Intelligence",
+			"rarity": "rare",
+			"mana_cost": "{2}{C}",
+			"type": "Legendary Artifact Creature — Vukoroq ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/264_Qimis, Central Intelligence.png"
+			}
+		},
+		{
+			"name": "Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Citizen ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/12_Citizen.png"
+			}
+		},
+		{
+			"name": "Leystone of Growth",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/188_Leystone of Growth.png"
+			}
+		},
+		{
+			"name": "Leystone of Depths",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/85_Leystone of Depths.png"
+			}
+		},
+		{
+			"name": "Leystone of Ruin",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/130_Leystone of Ruin.png"
+			}
+		},
+		{
+			"name": "Inner Ring's Pupil",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/126_Inner Ring's Pupil.png"
+			}
+		},
+		{
+			"name": "Callisto, the Teqiarch",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/73_Callisto, the Teqiarch.png"
+			}
+		},
+		{
+			"name": "Leystone of Being",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/44_Leystone of Being.png"
+			}
+		},
+		{
+			"name": "Ardor, Forefront of Freedom",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/145_Ardor, Forefront of Freedom.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/11_Soldier.png"
+			}
+		},
+		{
+			"name": "Lagoroth, Century's Apex",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Elemental Beast ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/187_Lagoroth, Century's Apex.png"
+			}
+		},
+		{
+			"name": "Savvy Smith",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Artificer ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/170_Savvy Smith.png"
+			}
+		},
+		{
+			"name": "Gi-Gecha, Tide of Victory",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/214_Gi-Gecha, Tide of Victory.png"
+			}
+		},
+		{
+			"name": "Taste for Malice",
+			"rarity": "rare",
+			"mana_cost": "{C}{C}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/20_Taste for Malice.png"
+			}
+		},
+		{
+			"name": "Jetstream Cruiser",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Bird Construct ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/84_Jetstream Cruiser.png"
+			}
+		},
+		{
+			"name": "Skittertiller",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Insect Construct ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/204_Skittertiller.png"
+			}
+		},
+		{
+			"name": "Leystone of Storms",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/161_Leystone of Storms.png"
+			}
+		},
+		{
+			"name": "Terminal Impact",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/173_Terminal Impact.png"
+			}
+		},
+		{
+			"name": "Alcadia, Cardinal Judge",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/211_Alcadia, Cardinal Judge_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/211_Alcadia, Cardinal Judge_back.png"
+				}
+			}
+		},
+		{
+			"name": "Azantium, Perfect Creation",
+			"rarity": "rare",
+			"mana_cost": "{1}{C}{W}{B}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/212_Azantium, Perfect Creation.png"
+			}
+		},
+		{
+			"name": "Farlands Diplomat",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/37_Farlands Diplomat.png"
+			}
+		},
+		{
+			"name": "Corpsepyre Fiend",
+			"rarity": "rare",
+			"mana_cost": "{2}{C/B}{C/B}",
+			"type": "Creature — Vukoroq Demon ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/111_Corpsepyre Fiend.png"
+			}
+		},
+		{
+			"name": "Neotech Replicant",
+			"rarity": "rare",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Artifact Creature — Assembly-Worker ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/240_Neotech Replicant.png"
+			}
+		},
+		{
+			"name": "Ozanwood Huntsman",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/195_Ozanwood Huntsman.png"
+			}
+		},
+		{
+			"name": "Ragecloak Shifter",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Shapeshifter Shaman ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/167_Ragecloak Shifter.png"
+			}
+		},
+		{
+			"name": "Unmolded One",
+			"rarity": "rare",
+			"mana_cost": "{C}",
+			"type": "Creature — Vukoroq Shapeshifter ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/22_Unmolded One.png"
+			}
+		},
+		{
+			"name": "Prime Consuls",
+			"rarity": "rare",
+			"mana_cost": "{1}{C}{W}",
+			"type": "Creature — Human Vukoroq Advisor ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/50_Prime Consuls.png"
+			}
+		},
+		{
+			"name": "Silver Ruination",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/55_Silver Ruination.png"
+			}
+		},
+		{
+			"name": "Pact of Power",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Sorcery",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/242_Pact of Power.png"
+			}
+		},
+		{
+			"name": "Replicrawler",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Spider Construct ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/137_Replicrawler.png"
+			}
+		},
+		{
+			"name": "Gentle Grasp",
+			"rarity": "rare",
+			"mana_cost": "{C/W}{C/W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/40_Gentle Grasp.png"
+			}
+		},
+		{
+			"name": "Zhovala, Silver Monarch",
+			"rarity": "mythic",
+			"mana_cost": "{2}{C}{W}",
+			"type": "Legendary Creature — Vukoroq Advisor ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/69_Zhovala, Silver Monarch.png"
+			}
+		},
+		{
+			"name": "Invasion's End",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/83_Invasion's End.png"
+			}
+		},
+		{
+			"name": "Sudden Revolt",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/172_Sudden Revolt.png"
+			}
+		},
+		{
+			"name": "Gilded Font",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/255_Gilded Font.png"
+			}
+		},
+		{
+			"name": "Malfunctioning Portal",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/259_Malfunctioning Portal.png"
+			}
+		},
+		{
+			"name": "Pursuer of Divinity",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/221_Pursuer of Divinity_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/221_Pursuer of Divinity_back.png"
+				}
+			}
+		},
+		{
+			"name": "Imperfect Fugisaur",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/185_Imperfect Fugisaur.png"
+			}
+		},
+		{
+			"name": "Looming Cyhawk",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Bird Construct ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/46_Looming Cyhawk.png"
+			}
+		},
+		{
+			"name": "Battle Physicist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard Warrior ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/72_Battle Physicist.png"
+			}
+		},
+		{
+			"name": "Wildfang Cavalier",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/176_Wildfang Cavalier.png"
+			}
+		},
+		{
+			"name": "Matter Harvester",
+			"rarity": "rare",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Artifact Creature — Wurm Construct ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/260_Matter Harvester.png"
+			}
+		},
+		{
+			"name": "Voice from the Stars",
+			"rarity": "rare",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Creature — Vukoroq Advisor ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/24_Voice from the Stars.png"
+			}
+		},
+		{
+			"name": "The Shattered Throne",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/267_The Shattered Throne.png"
+			}
+		},
+		{
+			"name": "Extraction Ritual",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/121_Extraction Ritual.png"
+			}
+		},
+		{
+			"name": "Shining Hope",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/202_Shining Hope.png"
+			}
+		},
+		{
+			"name": "Second Crown's Fall",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/54_Second Crown's Fall.png"
+			}
+		},
+		{
+			"name": "Augmented Ruffians",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/104_Augmented Ruffians.png"
+			}
+		},
+		{
+			"name": "Beckoner of Ends",
+			"rarity": "common",
+			"mana_cost": "{2}{C/B}",
+			"type": "Creature — Vukoroq Shaman ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/105_Beckoner of Ends.png"
+			}
+		},
+		{
+			"name": "Dregstreet Inquisitor",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/118_Dregstreet Inquisitor.png"
+			}
+		},
+		{
+			"name": "Fleshbearer",
+			"rarity": "common",
+			"mana_cost": "{4}{C/B}",
+			"type": "Creature — Vukoroq Zombie ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/124_Fleshbearer.png"
+			}
+		},
+		{
+			"name": "Leyline Leecher",
+			"rarity": "common",
+			"mana_cost": "{C}",
+			"type": "Creature — Vukoroq Bat ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/14_Leyline Leecher.png"
+			}
+		},
+		{
+			"name": "Capital Skyraiders",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird Soldier ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/107_Capital Skyraiders.png"
+			}
+		},
+		{
+			"name": "Stratos Sentry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{C}",
+			"type": "Creature — Vukoroq Knight ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/19_Stratos Sentry.png"
+			}
+		},
+		{
+			"name": "Lure into Lunacy",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/131_Lure into Lunacy.png"
+			}
+		},
+		{
+			"name": "Covetous Frostwyrm",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dragon ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/76_Covetous Frostwyrm.png"
+			}
+		},
+		{
+			"name": "Embrace the Unnatural",
+			"rarity": "rare",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/6_Embrace the Unnatural.png"
+			}
+		},
+		{
+			"name": "Xiv, Replisparked",
+			"rarity": "mythic",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Legendary Planeswalker — Xiv ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/27_Xiv, Replisparked.png"
+			}
+		},
+		{
+			"name": "Gericho, Ageless Wanderer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Gericho ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/155_Gericho, Ageless Wanderer.png"
+			}
+		},
+		{
+			"name": "Celise, Syndicate Pariah",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Celise ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/108_Celise, Syndicate Pariah.png"
+			}
+		},
+		{
+			"name": "Reminder",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/1_Reminder.png"
+			}
+		},
+		{
+			"name": "Cyborg Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Cyborg Knight ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/7_Cyborg Knight.png"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/4_Avatar.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/15_Construct.png"
+			}
+		},
+		{
+			"name": "Dinosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dinosaur ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/9_Dinosaur.png"
+			}
+		},
+		{
+			"name": "Festered Effluvium",
+			"rarity": "mythic",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/123_Festered Effluvium.png"
+			}
+		},
+		{
+			"name": "Spacetime Seraph",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Angel Construct ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/57_Spacetime Seraph.png"
+			}
+		},
+		{
+			"name": "Xavvac, Corrupter Core",
+			"rarity": "mythic",
+			"mana_cost": "{1}{C}{B}",
+			"type": "Legendary Artifact Creature — Vukoroq ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/144_Xavvac, Corrupter Core.png"
+			}
+		},
+		{
+			"name": "Gnosa, Research Executive",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Elf Artificer ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/215_Gnosa, Research Executive.png"
+			}
+		},
+		{
+			"name": "Ruin, the First Shard",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/222_Ruin, the First Shard.png"
+			}
+		},
+		{
+			"name": "Vasilisa, Helping Hand",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker — Vasilisa ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/210_Vasilisa, Helping Hand_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/210_Vasilisa, Helping Hand_back.png"
+				}
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/21_Treasure.png"
+			}
+		},
+		{
+			"name": "Dawn of Peace",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/150_Dawn of Peace.png"
+			}
+		},
+		{
+			"name": "The World Stood Still",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/102_The World Stood Still.png"
+			}
+		},
+		{
+			"name": "Skinshifting Steel",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/268_Skinshifting Steel.png"
+			}
+		},
+		{
+			"name": "Ozan's Blessing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/194_Ozan's Blessing.png"
+			}
+		},
+		{
+			"name": "Red Ragtag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/10_Red Ragtag.png"
+			}
+		},
+		{
+			"name": "Leyshard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/18_Leyshard.png"
+			}
+		},
+		{
+			"name": "Decavolt Reactor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G/U}{G/U}",
+			"type": "Artifact Creature — Assembly-Worker ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/233_Decavolt Reactor.png"
+			}
+		},
+		{
+			"name": "Stolen Secrets",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}",
+			"type": "Instant",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/247_Stolen Secrets.png"
+			}
+		},
+		{
+			"name": "Leyspark Wielder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Human Warrior Wizard ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/219_Leyspark Wielder.png"
+			}
+		},
+		{
+			"name": "Lauded Orator",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/43_Lauded Orator.png"
+			}
+		},
+		{
+			"name": "Twilight Vagabond",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Monk ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/64_Twilight Vagabond_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/64_Twilight Vagabond_back.png"
+				}
+			}
+		},
+		{
+			"name": "Brass Laborer",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}",
+			"type": "Artifact Creature — Assembly-Worker ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/231_Brass Laborer.png"
+			}
+		},
+		{
+			"name": "Edgeland Battlefury",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/G}",
+			"type": "Creature — Orc Berserker ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/234_Edgeland Battlefury.png"
+			}
+		},
+		{
+			"name": "Cryptolabe",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/U}{G/U}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/232_Cryptolabe.png"
+			}
+		},
+		{
+			"name": "Plasma Elite",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/243_Plasma Elite.png"
+			}
+		},
+		{
+			"name": "Gilded Death",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Skeleton ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/125_Gilded Death.png"
+			}
+		},
+		{
+			"name": "Stellar Witness",
+			"rarity": "rare",
+			"mana_cost": "{C/W}{C/W}",
+			"type": "Creature — Vukoroq Advisor ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/60_Stellar Witness.png"
+			}
+		},
+		{
+			"name": "Vukoroq Defector",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/G}{R/G}",
+			"type": "Creature — Vukoroq ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/248_Vukoroq Defector.png"
+			}
+		},
+		{
+			"name": "Resign to Progress",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/245_Resign to Progress.png"
+			}
+		},
+		{
+			"name": "Critical Capture",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/213_Critical Capture.png"
+			}
+		},
+		{
+			"name": "Proto-Class Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{9}{C/B}{C/B}{C/B}",
+			"type": "Creature — Vukoroq Dinosaur ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/136_Proto-Class Behemoth.png"
+			}
+		},
+		{
+			"name": "Tithe to the Machine",
+			"rarity": "rare",
+			"mana_cost": "{2}{C}{B}",
+			"type": "Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/142_Tithe to the Machine.png"
+			}
+		},
+		{
+			"name": "Bind Life to Steel",
+			"rarity": "rare",
+			"mana_cost": "{X}{W/B}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/229_Bind Life to Steel.png"
+			}
+		},
+		{
+			"name": "Lost Resistor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/47_Lost Resistor_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/47_Lost Resistor_back.png"
+				}
+			}
+		},
+		{
+			"name": "Lend Me Strength",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/218_Lend Me Strength.png"
+			}
+		},
+		{
+			"name": "Marilye, Dreaming Big",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker — Marilye ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/87_Marilye, Dreaming Big.png"
+			}
+		},
+		{
+			"name": "Illustrious Sheng Fa",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Planeswalker — Fa ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/42_Illustrious Sheng Fa.png"
+			}
+		},
+		{
+			"name": "Shepherd of Steel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/246_Shepherd of Steel.png"
+			}
+		},
+		{
+			"name": "Towering Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/225_Towering Sentinel.png"
+			}
+		},
+		{
+			"name": "Callisto's Confiscation",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/74_Callisto's Confiscation.png"
+			}
+		},
+		{
+			"name": "Claim the Source",
+			"rarity": "mythic",
+			"mana_cost": "{5}{C}{C}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/5_Claim the Source.png"
+			}
+		},
+		{
+			"name": "Rebuilding of Londel",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/197_Rebuilding of Londel.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/6_Knight.png"
+			}
+		},
+		{
+			"name": "Cyborg Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Cyborg Soldier ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/17_Cyborg Soldier.png"
+			}
+		},
+		{
+			"name": "Potion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/19_Potion.png"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment Weapon ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/22_Weapon.png"
+			}
+		},
+		{
+			"name": "Stella's Journal",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{X}",
+			"type": "Legendary Artifact",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/269_Stella's Journal.png"
+			}
+		},
+		{
+			"name": "Coalesced Core",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/293_Coalesced Core.png"
+			}
+		},
+		{
+			"name": "Coalesced Mesa",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/295_Coalesced Mesa.png"
+			}
+		},
+		{
+			"name": "Coalesced Glacier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/294_Coalesced Glacier.png"
+			}
+		},
+		{
+			"name": "Coalesced Peaks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/296_Coalesced Peaks.png"
+			}
+		},
+		{
+			"name": "Coalesced Cliff",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/292_Coalesced Cliff.png"
+			}
+		},
+		{
+			"name": "Pristine Grounds",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/285_Pristine Grounds.png"
+			}
+		},
+		{
+			"name": "Teqien Pledge",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/100_Teqien Pledge.png"
+			}
+		},
+		{
+			"name": "Ozanite Pledge",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/193_Ozanite Pledge.png"
+			}
+		},
+		{
+			"name": "Stehlian Pledge",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/58_Stehlian Pledge.png"
+			}
+		},
+		{
+			"name": "Edgeland Pledge",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/152_Edgeland Pledge.png"
+			}
+		},
+		{
+			"name": "Iris Pledge",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/129_Iris Pledge.png"
+			}
+		},
+		{
+			"name": "Alien Pledge",
+			"rarity": "rare",
+			"mana_cost": "{1}{C}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/1_Alien Pledge.png"
+			}
+		},
+		{
+			"name": "Advisor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Advisor ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Sp1itmoon.github.io/sets/CYB-files/img/3_Advisor.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Cyboreal Vengeance
+		2 Unity
+		2 Malicious Skycleaver
+		2 Data Weaver
+		2 Eleanor, Royal Captain
+		2 General Diadem, Usurper
+		2 Qimis, Central Intelligence
+		2 Leystone of Growth
+		2 Leystone of Depths
+		2 Leystone of Ruin
+		2 Inner Ring's Pupil
+		2 Callisto, the Teqiarch
+		2 Leystone of Being
+		2 Ardor, Forefront of Freedom
+		2 Lagoroth, Century's Apex
+		2 Savvy Smith
+		2 Gi-Gecha, Tide of Victory
+		2 Taste for Malice
+		2 Jetstream Cruiser
+		2 Skittertiller
+		2 Leystone of Storms
+		2 Terminal Impact
+		2 Azantium, Perfect Creation
+		2 Farlands Diplomat
+		2 Corpsepyre Fiend
+		2 Neotech Replicant
+		2 Ozanwood Huntsman
+		2 Ragecloak Shifter
+		2 Unmolded One
+		2 Prime Consuls
+		2 Silver Ruination
+		2 Pact of Power
+		2 Replicrawler
+		2 Gentle Grasp
+		2 Invasion's End
+		2 Sudden Revolt
+		2 Gilded Font
+		2 Malfunctioning Portal
+		2 Pursuer of Divinity
+		2 Imperfect Fugisaur
+		2 Looming Cyhawk
+		2 Battle Physicist
+		2 Wildfang Cavalier
+		2 Matter Harvester
+		2 Voice from the Stars
+		2 The Shattered Throne
+		2 Extraction Ritual
+		2 Shining Hope
+		2 Second Crown's Fall
+		2 Lure into Lunacy
+		2 Covetous Frostwyrm
+		2 Embrace the Unnatural
+		2 Decavolt Reactor
+		2 Cryptolabe
+		2 Stellar Witness
+		2 Vukoroq Defector
+		2 Resign to Progress
+		2 Critical Capture
+		2 Proto-Class Behemoth
+		2 Tithe to the Machine
+		2 Bind Life to Steel
+		2 Lost Resistor
+		2 Lend Me Strength
+		2 Towering Sentinel
+		2 Callisto's Confiscation
+		2 Teqien Pledge
+		2 Ozanite Pledge
+		2 Stehlian Pledge
+		2 Edgeland Pledge
+		2 Iris Pledge
+		2 Alien Pledge
+		1 Sharesh, Leader of the Lost
+		1 Alcadia, Cardinal Judge
+		1 Zhovala, Silver Monarch
+		1 Xiv, Replisparked
+		1 Gericho, Ageless Wanderer
+		1 Celise, Syndicate Pariah
+		1 Festered Effluvium
+		1 Spacetime Seraph
+		1 Xavvac, Corrupter Core
+		1 Gnosa, Research Executive
+		1 Ruin, the First Shard
+		1 Vasilisa, Helping Hand
+		1 Dawn of Peace
+		1 The World Stood Still
+		1 Skinshifting Steel
+		1 Marilye, Dreaming Big
+		1 Illustrious Sheng Fa
+		1 Claim the Source
+		1 Rebuilding of Londel
+		1 Stella's Journal
+		[UncommonSlot(3)]
+	9 Silverbone Chromate
+		9 Radiant Chromate
+		9 Wayward Drek
+		9 Inspired Denizen
+		9 Mercurial Wright
+		9 Beguiling Stewards
+		9 Cosmic Colossus
+		9 Offerings to Sky Gods
+		9 Interception
+		9 Xavvac's Reprocessing
+		9 Spatial Rift
+		9 Fluid Formation
+		9 Assimilate
+		9 Tense Negotiations
+		9 Overt Banishment
+		9 Royal Templar
+		9 Ascended Seer
+		9 Warcast Seraph
+		9 Exuberant Caprisaur
+		9 Assured Destruction
+		9 Unshackle
+		9 Welding Rig
+		9 Repulsion Field
+		9 Imposing Iteration
+		9 Teqien Overseer
+		9 Defthand Infiltrator
+		9 Dynamo Glyphs
+		9 Neotech Savant
+		9 Artisan's Studio
+		9 No Time to Waste
+		9 Rebuke the Mighty
+		9 Earthly Penchants
+		9 Cull Populace
+		9 Rooftop Slink
+		9 Celise's Vengeance
+		9 Programmed Pursuer
+		9 Blackout Grifter
+		9 Dissect Intel
+		9 Feed on the Meek
+		9 Calamitous War Cry
+		9 Conscript
+		9 Field Opportunist
+		9 Wyrmshot
+		9 Pyrewing Penancer
+		9 Arid Outrider
+		9 Plasmana Hellkite
+		9 Brass Oracle
+		9 Gift of Inspiration
+		9 Sharesh's Bravery
+		9 Battlehymn Howler
+		9 Sustained Fire
+		9 Leystone's Vigor
+		9 Ancient Cloudgrazer
+		9 Hostile Evolution
+		9 Gravity Gauntlets
+		9 Leyshard
+		9 Altar of Chrome
+		9 Neo Stehlia
+		9 High Teqien
+		9 Hallowed Chamber
+		9 Edgeland Market
+		9 Secluded Hangar
+		9 Mirrormeld Spire
+		9 Neotech Exploiter
+		9 Ragtag Squad
+		9 Essence Archivist
+		9 Synod of Sanctions
+		9 Highseas Renegade
+		9 Archaic Obelisk
+		9 Scuttle Tank
+		9 Tidewake Walker
+		9 Aethersteel Pouncer
+		9 Runerock Automaton
+		9 Skylance Escort
+		9 Capital Skyraiders
+		9 Stratos Sentry
+		9 Ozan's Blessing
+		9 Stolen Secrets
+		9 Leyspark Wielder
+		9 Twilight Vagabond
+		9 Edgeland Battlefury
+		9 Plasma Elite
+		9 Gilded Death
+		9 Shepherd of Steel
+		9 Pristine Grounds
+		[CommonSlot(10)]
+	30 Lithe Stalker
+		30 Skyward Magus
+		30 Aqueous Drake
+		30 Nyamphibian
+		30 Wistful Delegate
+		30 Retrofit Paladin
+		30 Priestess of Chains
+		30 Stehlian Reverend
+		30 Sworn Loyalist
+		30 Whipwing Dragonfly
+		30 Dated Mechanoid
+		30 Escorted Captain
+		30 Conserve Ideals
+		30 Assembled Assault
+		30 Galvanize
+		30 Cut Aside
+		30 Holding Cell
+		30 Deeptreader Arcanist
+		30 Industrialize
+		30 Neotech Skyguard
+		30 Emulation Expert
+		30 Contain for Study
+		30 Mage Hand
+		30 Siphon Energy
+		30 Forced Ejection
+		30 Battery Drain
+		30 Recharge
+		30 Withered Survivor
+		30 Survey the Area
+		30 Dissolve into Data
+		30 Data Wipe
+		30 Corpse Experiment
+		30 Iris Agent
+		30 Cybat
+		30 Iris Cultist
+		30 Steelhorn Crusher
+		30 Artificial Unlife
+		30 Scrapweight
+		30 High Voltage
+		30 Vagrant Sorceress
+		30 Revved Robo
+		30 Drone Swarm
+		30 Machinations
+		30 Iron Steambreaker
+		30 Flametip Goliath
+		30 Static Augment
+		30 Minoan Engineer
+		30 Resist in the Ranks
+		30 Pull the Wires
+		30 Vanguard Recruit
+		30 Muse
+		30 Explosive Redemption
+		30 Lead the Charge
+		30 Rigorous Recon
+		30 Orbinoid
+		30 Endangered Scinok
+		30 Massive Predation
+		30 Workshop Helper
+		30 Simpler Times
+		30 Valiant Resistance
+		30 Londel Sharpshot
+		30 Ozanwood Murk
+		30 Scrapmail Conscripts
+		30 Impregnability
+		30 Skysnipe
+		30 Stand Strong
+		30 Atomize
+		30 Inessence
+		30 First Contact
+		30 Warp Figure
+		30 Savage Weldbeast
+		30 Vision Herald
+		30 Masked Envoy
+		30 Hivecaste Vukoroq
+		30 Cast Reflection
+		30 Omnoid Destroyer
+		30 Instill Void
+		30 Seeker Orbs
+		30 Plasma Armory
+		30 Reactor Sphere
+		30 Auto Sifter
+		30 Supercharger
+		30 Holo-Map
+		30 Field Laboratory
+		30 Valley Village
+		30 Steam Colony
+		30 Nebulous Ring
+		30 Dark Horizon
+		30 Lunar Plateau
+		30 Capital Zenith
+		30 Warpway Rings
+		30 Brandish Greatness
+		30 Dark Ambassador
+		30 Mesmage
+		30 Barded Brachion
+		30 Instant Adaptation
+		30 Silversilk Emissary
+		30 Ironcliff Blaster
+		30 Plains
+		30 Island
+		30 Swamp
+		30 Mountain
+		30 Forest
+		30 Wastes
+		30 Runway Mech
+		30 Steamveil Model
+		30 Aggressor Model
+		30 Teslahammer Giant
+		30 Augmented Ruffians
+		30 Beckoner of Ends
+		30 Dregstreet Inquisitor
+		30 Fleshbearer
+		30 Leyline Leecher
+		30 Lauded Orator
+		30 Brass Laborer
+		[LandSlot(1)]
+	
