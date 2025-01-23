@@ -1,1 +1,0 @@
-﻿Iron Steambreaker	R	common	Artifact Creature – Construct 	158	R	4R	TrampleNEWLINEWhenever Iron Steambreaker attacks, put a +1/+1 counter on it.	4/3		normal	CYB		!canoncard Mounted Dreadknight

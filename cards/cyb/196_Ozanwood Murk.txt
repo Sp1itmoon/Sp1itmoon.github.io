@@ -1,1 +1,0 @@
-﻿Ozanwood Murk	G	common	Creature – Fish Beast 	196	G	1G	When Ozanwood Murk dies, draw a card.	2/1		normal	CYB		!canoncard Spore Crawler

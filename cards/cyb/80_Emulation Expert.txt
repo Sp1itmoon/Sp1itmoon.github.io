@@ -1,1 +1,0 @@
-﻿Emulation Expert	U	common	Creature – Human Artificer 	80	U	U	1U, T, Sacrifice Emulation Expert: Gain control of target creature you don’t control with mana value 3 or less. Its owner creates a tapped token that’s a copy of it. Activate only as a sorcery.	1/2		normal	CYB		!canoncard Phantasmal Image

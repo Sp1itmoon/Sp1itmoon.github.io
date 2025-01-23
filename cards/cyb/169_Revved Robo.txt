@@ -1,1 +1,0 @@
-﻿Revved Robo	R	common	Artifact Creature – Construct Soldier 	169	R	1R	When Revved Robo enters, you may put a +1/+1 counter on it. If you don’t, it gets +2/+0 and gains haste until end of turn.	1/1		normal	CYB		!canoncard Daybreak Combatants

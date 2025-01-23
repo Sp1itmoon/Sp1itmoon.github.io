@@ -1,1 +1,0 @@
-﻿Xavvac's Reprocessing		uncommon	Sorcery	26	C	3CC	Integrate up to two target creatures with total toughness 6 or less. (Exile them, then you may choose nonland permanents they’re integrated onto.)			normal	CYB		!canoncard Spreading FlamesNEWLINE 101: Integrating is now optional.

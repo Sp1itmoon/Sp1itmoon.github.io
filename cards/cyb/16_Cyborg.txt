@@ -1,1 +1,0 @@
-﻿Cyborg		common	Token Artifact Creature – Cyborg 	16	C			1/1		token	CYB		!related Artificial Unlife<1>;Extraction Ritual<1>;Extraction Ritual<2>;Extraction Ritual<3>;Alcadia, Cardinal Judge<1>;The Omnithority<1>;Imposing Iteration<3>;Wayward Drek<1>;Reborn Herald<1>;Escorted Captain<1>;Welding Rig<1>;First Contact<1>;Offerings to Sky Gods<1>;Matter Harvester<1>;

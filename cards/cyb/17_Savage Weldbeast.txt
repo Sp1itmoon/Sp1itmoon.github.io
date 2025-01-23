@@ -1,1 +1,0 @@
-﻿Savage Weldbeast		common	Creature – Vukoroq Beast 	17	C	4C	Hexproof from permanents (This creature can’t be the target of permanent spells or abilities of permanents your opponents control.)	6/4		normal	CYB		!canoncard Vine Mare

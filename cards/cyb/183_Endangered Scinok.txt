@@ -1,1 +1,0 @@
-﻿Endangered Scinok	G	common	Creature – Rhino Beast 	183	G	2G	2G: Endangered Scinok gets +1/+1 until end of turn. This ability costs 1 less to activate until end of turn.	3/3		normal	CYB		!canoncard Dire Wolf Prowler

@@ -1,1 +1,0 @@
-﻿Aethersteel Pouncer	G	uncommon	Artifact Creature – Cat Construct 	178	WUBRG	G	Aethersteel Pouncer enters with a haste counter on it.	1/1		adventure	CYB		Dispersion	G	Instant – Discharge 	WUBRG	2G	Add WUBR. (Remove a counter from this to cast a copy.)				!canoncard Elvish Mystic

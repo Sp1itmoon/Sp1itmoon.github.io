@@ -1,1 +1,0 @@
-﻿Sworn Loyalist	W	common	Creature – Human Knight 	61	W	1W	First strikeNEWLINECybersoul 4W (4W: Transform this. Each artifact you tap while activating pays for 1. Activate only as a sorcery.)	2/1		transform double faced	CYB		Silver Swiftspear	W	Artifact Creature – Cyborg Knight 	W		Double strike	2/4			!canoncard Gloom Stalker

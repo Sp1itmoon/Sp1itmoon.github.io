@@ -1,1 +1,0 @@
-﻿Corpse Experiment	B	common	Instant	110	B	B	Choose one –NEWLINE• Return target creature card from a graveyard to its owner’s hand.NEWLINE• Exile target creature card in a graveyard, then draw a card.			normal	CYB		!canoncard Disentomb

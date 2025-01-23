@@ -1,1 +1,0 @@
-﻿Skylance Escort	UG	uncommon	Artifact Creature – Construct 	224	UG	2GU	FlyingNEWLINEWhen Skylance Escort enters, put a vigilance counter on each creature you control.	3/3		adventure	CYB		Energize	UG	Instant – Discharge 	UG	GU	You gain 3 life, scry 2, then draw a card. (Remove a counter from this to cast a copy.)				!canoncard River hoopoe

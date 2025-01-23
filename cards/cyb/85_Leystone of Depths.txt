@@ -1,1 +1,0 @@
-﻿Leystone of Depths	U	rare	Legendary Enchantment Artifact	85	U	U	At the beginning of your end step, scry 1. Then if it’s your first turn of the game or you discarded a card named Leystone of Depths this turn, draw a card.NEWLINECycling U (U, Discard this card: Draw a card.)			normal	CYB		!canoncard Song of Creation

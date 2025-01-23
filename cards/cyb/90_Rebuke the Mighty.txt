@@ -1,1 +1,0 @@
-﻿Rebuke the Mighty	U	uncommon	Instant	90	U	2U	Choose one or both –NEWLINE• Return target creature to its owner’s hand.NEWLINE• Return a creature with the greatest power or tied for the greatest power to its owner’s hand.			normal	CYB		!canoncard waterwhirl

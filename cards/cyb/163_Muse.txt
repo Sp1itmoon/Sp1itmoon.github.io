@@ -1,1 +1,0 @@
-﻿Muse	R	common	Instant	163	R	1R	As an additional cost to cast this spell, discard a card.NEWLINEDraw two cards.			normal	CYB		!canoncard Tormenting Voice

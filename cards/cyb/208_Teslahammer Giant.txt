@@ -1,1 +1,0 @@
-﻿Teslahammer Giant	G	common	Artifact Creature – Giant Construct 	208	G	4GG	Teslahammer Giant enters with a +1/+1 counter on it.	5/5		adventure	CYB		Hammer Time	G	Sorcery – Discharge 	G	G	Target creature gets +4/+4 until end of turn. (Remove a counter from this to cast a copy.)				!canoncard Baloth Woodcrasher

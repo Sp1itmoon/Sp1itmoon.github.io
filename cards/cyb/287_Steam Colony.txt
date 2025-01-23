@@ -1,1 +1,0 @@
-﻿Steam Colony		common	Land	287	UR		Steam Colony enters tapped.NEWLINET: Add U or R.NEWLINE1, Discard Steam Colony: Scry 2.			normal	CYB		!canoncard Izzet Guildgate

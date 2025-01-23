@@ -1,1 +1,0 @@
-﻿Teqien Overseer	U	uncommon	Creature – Human Wizard 	99	U	U	As long as you’ve cast an instant spell this turn, Teqien Overseer gets +1/+1 and has hexproof.NEWLINEAs long as you’ve cast a sorcery spell this turn, Teqien Overseer gets +1/+1 and has flying.	1/1		normal	CYB		!canoncard Blistercoil Weird

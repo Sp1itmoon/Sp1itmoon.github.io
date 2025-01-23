@@ -1,1 +1,0 @@
-﻿Silver Ruination	W	rare	Instant	55	W	1W	Exile target nonland permanent with mana value less than or equal to the amount of life you’ve lost this turn.			normal	CYB		!canoncard Anguished Unmaking

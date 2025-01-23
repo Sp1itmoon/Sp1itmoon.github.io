@@ -1,1 +1,0 @@
-﻿Radiant Chromate	W	uncommon	Creature – Vukoroq Advisor 	51	W	1CW	Whenever Radiant Chromate or another Advisor you control enters, an opponent may pay 1. If they do, scry 1. Otherwise, put a +1/+1 counter on that creature.	3/2		normal	CYB		!canoncard Ivy Lane Denizen

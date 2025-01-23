@@ -1,1 +1,0 @@
-﻿Seeker Orbs		common	Artifact Creature – Orb 	266	C	1C	FlyingNEWLINEWhenever Seeker Orbs becomes tapped, scry 1.	1/3		normal	CYB		!canoncard Moonfolk Puzzlemaker

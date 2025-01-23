@@ -1,1 +1,0 @@
-﻿Prime Consuls	W	rare	Creature – Human Vukoroq Advisor 	50	W	1CW	Other Advisors you control get +1/+1.NEWLINEWhenever Prime Consuls attacks, defending player may pay 1. If they do, put a +1/+1 counter on Prime Consuls. Otherwise, create a 2/2 white Advisor creature token that’s tapped and attacking.	3/3		normal	CYB		!canoncard Battle Cry Goblin

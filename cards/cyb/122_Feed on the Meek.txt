@@ -1,1 +1,0 @@
-﻿Feed on the Meek	B	uncommon	Instant	122	B	2B	Feed on the Meek deals 4 damage to target creature. Put X +1/+1 counters on up to one target creature, where X is the amount of excess damage dealt to that creature this way.			normal	CYB		!canoncard Flame Spill

@@ -1,1 +1,0 @@
-﻿Brandish Greatness	WB	common	Instant	230	WB	3W/B	Destroy target tapped creature. If its power was 3 or less, you gain 3 life.NEWLINECreate a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)			normal	CYB		!canoncard Iron Verdict

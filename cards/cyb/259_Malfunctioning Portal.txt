@@ -1,1 +1,0 @@
-﻿Malfunctioning Portal		rare	Artifact	259	C	3	2, T: Exile target creature you control, then reveal the top card of your library. If the revealed card is a creature card, put it onto the battlefield. Otherwise, return the exiled card to the battlefield under its owner’s control.			normal	CYB		!canoncard Transmogrify

@@ -1,1 +1,0 @@
-﻿Cast Reflection		common	Sorcery	4	C	3C	Create a token that’s a copy of target creature, except it’s 3/3.			normal	CYB		!canoncard Quicksilver Gargantuan

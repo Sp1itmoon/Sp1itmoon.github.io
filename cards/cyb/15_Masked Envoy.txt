@@ -1,1 +1,0 @@
-﻿Masked Envoy		common	Creature – Vukoroq Advisor 	15	C	1C	At the beginning of combat on your turn, you may have target Advisor you control get +2/-1 until end of turn.	1/3		normal	CYB		!canoncard Anointed Deacon

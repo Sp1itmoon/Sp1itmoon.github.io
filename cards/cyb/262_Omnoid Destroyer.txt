@@ -1,1 +1,0 @@
-﻿Omnoid Destroyer		common	Artifact Creature – Construct 	262	C	3C	Whenever Omnoid Destroyer or another artifact you control enters, artifact creatures you control gain deathtouch until end of turn.	3/4		normal	CYB		!canoncard Onyx Mage

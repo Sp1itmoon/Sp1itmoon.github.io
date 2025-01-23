@@ -1,1 +1,0 @@
-﻿Skittertiller	G	rare	Artifact Creature – Insect Construct 	204	G	1G	TrampleNEWLINEWhenever Skittertiller deals combat damage to a player, put a +1/+1 counter on it.	2/2		adventure	CYB		Furrow	G	Sorcery – Discharge 	G	1G	Search your library for a basic land card, put it onto the battlefield, then shuffle. (Remove a counter from this to cast a copy.)				!canoncard Slith Predator

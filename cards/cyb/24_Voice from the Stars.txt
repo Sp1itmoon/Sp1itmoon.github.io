@@ -1,1 +1,0 @@
-﻿Voice from the Stars		rare	Creature – Vukoroq Advisor 	24	C	3CC	FlyingNEWLINEAt the beginning of your end step, you may exile a card you own from outside the game. Put that card into your hand unless an opponent pays 2 and 2 life.	3/5		normal	CYB		!canoncard Legion Angel

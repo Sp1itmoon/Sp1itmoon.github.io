@@ -1,1 +1,0 @@
-﻿Shining Hope	G	rare	Sorcery	202	G	1G	Draw cards equal to the greatest power among creatures you control. At the beginning of the next end step, discard that many cards.			normal	CYB		!canoncard Soul’s Majesty

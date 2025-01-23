@@ -1,1 +1,0 @@
-﻿Hallowed Chamber		uncommon	Land	276	B		Hallowed Chamber enters tapped unless you control a basic non-Swamp land.NEWLINET: Add B.NEWLINE1, T, Sacrifice Hallowed Chamber: Create two Treasure tokens.			normal	CYB		!canoncard Treasure Vault

@@ -1,1 +1,0 @@
-﻿Imperfect Fugisaur	G	rare	Creature – Dinosaur 	185	G	2GG	TrampleNEWLINEWhen Imperfect Fugisaur enters, you may sacrifice an artifact. If you do, it gains haste until end of turn.NEWLINEWhenever Imperfect Fugisaur deals combat damage to a player, that player sacrifices an artifact. If they can’t, you draw a card.	4/4		normal	CYB		!canoncard Kogla, the Titan Ape

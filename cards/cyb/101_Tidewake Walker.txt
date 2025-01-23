@@ -1,1 +1,0 @@
-﻿Tidewake Walker	U	uncommon	Artifact Creature – Construct 	101	U	3U	Tidewake Walker enters with a hexproof counter on it.	3/4		adventure	CYB		Rip Current	U	Sorcery – Discharge 	U	1U	Tap target creature. It can’t become untapped for as long as you control a creature named Tidewake Walker. (Remove a counter from this to cast a copy.)				!canoncard Icefall Regent

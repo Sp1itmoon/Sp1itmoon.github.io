@@ -1,1 +1,0 @@
-﻿Fluid Formation		uncommon	Instant	8	C	3C	This spell costs 1 less to cast if it targets a spell you control and costs 1 less to cast if it targets a spell with mana value 3 or less.NEWLINECopy target spell. You may choose new targets for the copy.			normal	CYB		!canoncard Twincast

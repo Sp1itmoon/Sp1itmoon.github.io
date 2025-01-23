@@ -1,1 +1,0 @@
-﻿Explosive Redemption	R	common	Sorcery	153	R	4R	Explosive Redemption deals 4 damage to target creature. When that creature dies this turn, return it to the battlefield under your control. It gains haste. Sacrifice it at end of turn.			normal	CYB		!canoncard Slave of Bolas

@@ -1,1 +1,0 @@
-﻿Plasma Elite	WB	uncommon	Creature – Human Rogue 	243	WB	2W/B	When Plasma Elite enters, create two Weapon tokens, then attach them to Plasma Elite. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip 2.)	1/1		normal	CYB		!canoncard Arcbound Prototype

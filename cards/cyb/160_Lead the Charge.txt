@@ -1,1 +1,0 @@
-﻿Lead the Charge	R	common	Instant	160	R	1R	Target creature gets +3/+3 and is a Flagbearer in addition to its other types until end of turn. Then if there are six or more creature types among creatures you control, draw a card.			normal	CYB		!canoncard Inordinate Rage

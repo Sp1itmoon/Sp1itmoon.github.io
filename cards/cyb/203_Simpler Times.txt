@@ -1,1 +1,0 @@
-﻿Simpler Times	G	common	Instant	203	G	2G	Destroy target artifact, battle, or enchantment. You gain life equal to its mana value.			normal	CYB		!canoncard Natural End

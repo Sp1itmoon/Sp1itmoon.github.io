@@ -1,1 +1,0 @@
-﻿Data Wipe	B	common	Sorcery	115	B	2B	Target player discards two cards. Exile their graveyard.			normal	CYB		!canoncard Go Blank

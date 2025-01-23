@@ -1,1 +1,0 @@
-﻿High Voltage	R	common	Instant	157	R	2R	This spell costs 2 less to cast as long as you’ve cast another instant or sorcery spell this turn.NEWLINEHigh Voltage deals 3 damage to any target.			normal	CYB		!canoncard Wizard’s Lightning

@@ -1,1 +1,0 @@
-﻿Wistful Delegate	W	common	Creature – Human Advisor 	68	W	W	LifelinkNEWLINEOther Advisors you control have ward 1.	1/2		normal	CYB		!canoncard Veteran Armorsmith

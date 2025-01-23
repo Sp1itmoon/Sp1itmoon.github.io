@@ -1,1 +1,0 @@
-﻿Callisto's Confiscation	U	rare	Instant	74	U	2UU	Counter all other spells. Exile up to one spell countered this way instead of putting it into its owner’s graveyard. You may cast that spell for as long as it remains exiled, and mana of any type can be spent to cast it.			normal	CYB		!canoncard Swift Silence

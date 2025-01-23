@@ -1,1 +1,0 @@
-﻿Cyborg Knight	B	common	Token Artifact Creature – Cyborg Knight 	7	B			3/3		token	CYB		!related General Diadem, Usurper<1>;

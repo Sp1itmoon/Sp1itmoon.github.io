@@ -1,1 +1,0 @@
-﻿Siphon Energy	U	common	Instant	95	U	2U	Counter target spell unless its controller pays 4. You may untap a land.			normal	CYB		!canoncard Mana Leak

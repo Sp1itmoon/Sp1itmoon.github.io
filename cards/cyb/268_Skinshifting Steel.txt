@@ -1,1 +1,0 @@
-﻿Skinshifting Steel		mythic	Artifact	268	C	3	Whenever a permanent you control enters, you may put a living counter on it.NEWLINEPermanents with living counters on them are 2/2 artifact creatures in addition to their other types.			normal	CYB		!canoncard Thran Forge

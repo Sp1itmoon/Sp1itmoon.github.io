@@ -1,1 +1,0 @@
-﻿Second Crown's Fall	W	rare	Sorcery	54	W	2W	Exile all creatures you don’t control. Then return those cards to the battlefield tapped under their owners’ control unless you’ve cast another spell named Second Crown’s Fall this game. Then exile Second Crown’s Fall.			normal	CYB		!canoncard Winds of Abandon

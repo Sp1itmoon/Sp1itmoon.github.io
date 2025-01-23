@@ -1,1 +1,0 @@
-﻿Artisan's Studio	UG	uncommon	Artifact	227	UG	G/U	Spells you cast from anywhere other than your hand can’t be countered.NEWLINE1G/U, T: Put a +1/+1 counter on target creature that doesn’t have a +1/+1 counter on it. Activate only as a sorcery.			normal	CYB		!canoncard Dragon Blood

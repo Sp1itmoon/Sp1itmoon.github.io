@@ -1,1 +1,0 @@
-﻿Beguiling Stewards		uncommon	Creature – Vukoroq Advisor 	3	C	3C	When Beguiling Stewards enters, if it’s not a token, create a token that’s a copy of it.NEWLINEBeguiling Stewards has deathtouch as long as you control another creature named Beguiling Stewards.	2/2		normal	CYB		!canoncard Precursor Golem

@@ -1,1 +1,0 @@
-﻿Lithe Stalker	W	common	Artifact Creature – Cat Construct 	45	W	1W	Whenever Lithe Stalker or another artifact you control enters, artifact creatures you control gain first strike until end of turn.	2/2		normal	CYB		!canoncard Kor Bladewhirl

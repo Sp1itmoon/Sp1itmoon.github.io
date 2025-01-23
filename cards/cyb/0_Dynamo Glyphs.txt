@@ -1,1 +1,0 @@
-﻿Dynamo Glyphs	U	special	Enchantment	0	U	XU	Dynamo Glyphs enters with six minus X charge counters on it.NEWLINEWhenever a creature you control attacks, remove a charge counter from Dynamo Glyphs. Then if it has no charge counters on it, sacrifice it. If you do, draw three cards.			normal	CYB		!canoncard Military IntelligenceNEWLINE!promo

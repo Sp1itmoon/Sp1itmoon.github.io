@@ -1,1 +1,0 @@
-﻿Repulsion Field	U	uncommon	Instant	92	U	XU	Counter target spell with mana value X. If that spell is targeting you or a creature you control, you may choose new targets for it instead.			normal	CYB		!canoncard Insidious Will

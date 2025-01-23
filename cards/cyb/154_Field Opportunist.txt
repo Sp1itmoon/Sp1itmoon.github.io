@@ -1,1 +1,0 @@
-﻿Field Opportunist	R	uncommon	Creature – Human Soldier 	154	R	2R	TrampleNEWLINEWhenever you gain control of a permanent you don’t own or a permanent you don’t own enters under your control, it and Field Opportunist each get +2/+0 and gain haste until end of turn.	2/3		normal	CYB		!canoncard Flamespeaker Adept

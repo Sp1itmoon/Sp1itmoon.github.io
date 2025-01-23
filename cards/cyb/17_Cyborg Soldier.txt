@@ -1,1 +1,0 @@
-﻿Cyborg Soldier		common	Token Artifact Creature – Cyborg Soldier 	17	C			3/1		token	CYB		!related Splintered Soul<1>;

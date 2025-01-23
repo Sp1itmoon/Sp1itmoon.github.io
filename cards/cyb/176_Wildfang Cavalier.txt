@@ -1,1 +1,0 @@
-﻿Wildfang Cavalier	R	rare	Creature – Human Warrior 	176	R	2R	HasteNEWLINEWhen Wildfang Cavalier dies, create a 3/1 red Dinosaur creature token. It gains haste until end of turn. If it’s your combat phase, there is an additional combat phase after this phase.	3/1		normal	CYB		!canoncard Combat Celebrant

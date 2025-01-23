@@ -1,1 +1,0 @@
-﻿Dark Ambassador	W	common	Creature – Vukoroq Advisor 	34	W	4C/W	VigilanceNEWLINEWhenever Dark Ambassador attacks, exile up to one target creature, then return that card to the battlefield tapped under its owner’s control.	3/5		normal	CYB		!canoncard Galepowder Mage

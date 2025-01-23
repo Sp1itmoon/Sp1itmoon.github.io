@@ -1,1 +1,0 @@
-﻿Callisto, the Teqiarch	U	rare	Legendary Creature – Human Wizard 	73	U	2U	At the beginning of your upkeep, exile the top card of target opponent’s library. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast it.NEWLINESpells you cast and don’t own cost 1 less to cast.	2/4		normal	CYB		!canoncard Brainstealer Dragon

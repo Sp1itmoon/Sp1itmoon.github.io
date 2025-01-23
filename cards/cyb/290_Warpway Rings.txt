@@ -1,1 +1,0 @@
-﻿Warpway Rings		common	Artifact Land	290	C		T, Sacrifice Warpway Rings: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.			normal	CYB		!canoncard Evolving Wilds

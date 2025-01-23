@@ -1,1 +1,0 @@
-﻿Invasion's End	U	rare	Sorcery	83	U	2UU	Put a defender counter on each creature.			normal	CYB		!canoncard Aurification

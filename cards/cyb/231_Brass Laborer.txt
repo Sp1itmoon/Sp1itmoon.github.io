@@ -1,1 +1,0 @@
-﻿Brass Laborer	UG	common	Artifact Creature – Assembly-Worker 	231	UG	1G/U	Brass Laborer enters with two reach counters on it.	1/3		adventure	CYB		Power Up	UG	Sorcery – Discharge 	UG	G/U	Untap target non-Assembly-Worker artifact. Put a charge counter on it. (Remove a counter from this to cast a copy.)				!canoncard Voltaic Servant

@@ -1,1 +1,0 @@
-﻿Resist in the Ranks	R	common	Sorcery	168	R	2R	Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If you control another permanent you don’t own, it gets +2/+0 until end of turn.			normal	CYB		!canoncard Act of Treason

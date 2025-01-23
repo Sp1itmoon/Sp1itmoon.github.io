@@ -1,1 +1,0 @@
-﻿Dark Horizon		common	Land	272	B		Dark Horizon enters tapped.NEWLINET: Add C or B.NEWLINE1, Discard Dark Horizon: Scry 2.			normal	CYB		!canoncard Barren Moor

@@ -1,1 +1,0 @@
-﻿Sharesh's Bravery	G	uncommon	Sorcery	201	G	4G	Until end of turn, target creature you control gets +1/+1 for each different creature type among non-Coward creatures you control. All creatures able to block it this turn do so.			normal	CYB		!canoncard Declare Dominance

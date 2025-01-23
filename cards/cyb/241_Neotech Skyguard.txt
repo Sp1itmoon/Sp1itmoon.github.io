@@ -1,1 +1,0 @@
-﻿Neotech Skyguard	UR	common	Creature – Human Soldier 	241	UR	2U/R	Whenever Neotech Skyguard attacks, it gains flying until end of turn. If you control a permanent you don’t own, it also gets +1/+1 until end of turn.	2/2		normal	CYB		!canoncard Daggersail Aeronaut

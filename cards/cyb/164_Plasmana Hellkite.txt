@@ -1,1 +1,0 @@
-﻿Plasmana Hellkite	R	uncommon	Artifact Creature – Dragon Construct 	164	R	3RR	Flying, hasteNEWLINEWhen Plasmana Hellkite enters, it deals 2 damage to any target and 1 damage to any other target.	3/3		normal	CYB		!canoncard Thundermaw Hellkite

@@ -1,1 +1,0 @@
-﻿Looming Cyhawk	W	rare	Artifact Creature – Bird Construct 	46	W	2W	FlashNEWLINEFlying, lifelinkNEWLINEYour opponents can’t create tokens.	2/1		normal	CYB		!canoncard Aether Snap

@@ -1,1 +1,0 @@
-﻿Ozanwood Huntsman	G	rare	Creature – Human Ranger 	195	G	2G	TrampleNEWLINESolidarity (Whenever you attack with six or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0” if you haven’t this turn.)NEWLINEG, Sacrifice an enchantment: Ozanwood Huntsman gets +2/+2 until end of turn.	3/3		normal	CYB		!canoncard Glimmer Bairn

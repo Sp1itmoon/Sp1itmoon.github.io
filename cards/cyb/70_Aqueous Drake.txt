@@ -1,1 +1,0 @@
-﻿Aqueous Drake	U	common	Creature – Drake 	70	U	3U	FlyingNEWLINEWhenever Aqueous Drake deals combat damage to a player, scry 1.	3/2		normal	CYB		!canoncard Windrider Patrol

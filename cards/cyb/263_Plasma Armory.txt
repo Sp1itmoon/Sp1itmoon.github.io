@@ -1,1 +1,0 @@
-﻿Plasma Armory		common	Artifact	263	C	1	When Plasma Armory enters or leaves the battlefield, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)NEWLINE2, Sacrifice Plasma Armory: Draw a card.			normal	CYB		!canoncard Hedron Blade

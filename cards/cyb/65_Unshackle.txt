@@ -1,1 +1,0 @@
-﻿Unshackle	W	uncommon	Instant	65	W	1W	Untap any number of target creatures. They gain flying and protection from noncreatures until end of turn.			normal	CYB		!canoncard Flying Crane Technique

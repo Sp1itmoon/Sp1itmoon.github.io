@@ -1,1 +1,0 @@
-﻿Static Augment	R	common	Instant	171	R	R	Put a haste counter on up to one target creature.NEWLINEDraw a card.			normal	CYB		!canoncard Expedite

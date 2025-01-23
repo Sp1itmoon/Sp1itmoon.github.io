@@ -1,1 +1,0 @@
-﻿Mage Hand	U	common	Instant	86	U	U	Put a +1/+1 counter on target creature. It gets +0/+2 until end of turn.			normal	CYB		!canoncard Gift of Tusks

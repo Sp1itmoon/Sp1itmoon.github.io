@@ -1,1 +1,0 @@
-﻿Potion		common	Token Artifact	19	C		Sacrifice this artifact: Put two +1/+1 counters on target creature. Activate only as a sorcery.			token	CYB		!related Vasilisa, Helping Hand<1>;

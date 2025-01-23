@@ -1,1 +1,0 @@
-﻿Matter Harvester		rare	Artifact Creature – Wurm Construct 	260	C	2CC	Matter Harvester has protection from mana values less than the number of artifacts you control.NEWLINEWhenever a nonland permanent you don’t control leaves the battlefield, create a 1/1 colorless Cyborg artifact creature token.	5/3		normal	CYB		!canoncard Ogre Slumlord

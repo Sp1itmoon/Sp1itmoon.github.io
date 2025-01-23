@@ -1,1 +1,0 @@
-﻿Coalesced Mesa		special	Land	295	W		T: Add C.NEWLINEIf a spell or ability you control would produce C, you may pay 1 life. If you do, it produces W instead.			normal	CYB		!canoncard Adarkar WastesNEWLINE!update

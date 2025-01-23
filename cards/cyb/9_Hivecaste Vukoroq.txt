@@ -1,1 +1,0 @@
-﻿Hivecaste Vukoroq		common	Creature – Vukoroq Insect 	9	C	1C	Hivecaste Vukoroq gets +1/+2 as long as you control another creature named Hivecaste Vukoroq.	2/1		normal	CYB		!canoncard Charmed Stray

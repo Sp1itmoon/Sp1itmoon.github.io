@@ -1,1 +1,0 @@
-﻿Welding Rig	WB	uncommon	Artifact	249	WB	W/B	2, T, Pay 1 life: Target permanent becomes an artifact in addition to its other types until end of turn.NEWLINEPay 1 life, Sacrifice Welding Rig: Target artifact gains indestructible until end of turn.			normal	CYB		!canoncard Selfless Savior

@@ -1,1 +1,0 @@
-﻿Leystone of Ruin	B	rare	Legendary Enchantment Artifact	130	B	B	At the beginning of your end step, each player mills two cards. Then if it’s your first turn of the game or you discarded a card named Leystone of Ruin this turn, target player mills four cards.NEWLINECycling B (B, Discard this card: Draw a card.)			normal	CYB		!canoncard Drowned Secrets

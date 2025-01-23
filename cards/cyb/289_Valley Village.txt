@@ -1,1 +1,0 @@
-﻿Valley Village		common	Land	289	RG		Valley Village enters tapped.NEWLINET: Add R or G.NEWLINE1, Discard Valley Village: Scry 2.			normal	CYB		!canoncard Gruul Guildgate

@@ -1,1 +1,0 @@
-﻿Vision Herald		common	Creature – Vukoroq Advisor 	23	C	2C	When Vision Herald enters, the first spell target opponent casts during their next turn costs an additional 1 and 1 life to cast.	2/3		normal	CYB		!canoncard Lodestone Golem

@@ -1,1 +1,0 @@
-﻿Mercurial Wright		uncommon	Artifact Creature – Vukoroq Artificer 	261	C	4C	TrampleNEWLINEMercurial Wright gets +1/+0 for each other artifact you control.NEWLINE2: Target permanent becomes an artifact in addition to its other types until end of turn.	3/6		normal	CYB		!canoncard Nim Grotesque

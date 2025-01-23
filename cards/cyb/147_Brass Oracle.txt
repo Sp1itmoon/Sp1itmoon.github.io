@@ -1,1 +1,0 @@
-﻿Brass Oracle	R	uncommon	Creature – Elf Shaman 	147	R	2R	Whenever you cast an instant spell, put a +1/+1 counter on Brass Oracle.NEWLINEWhenever you cast a sorcery spell, Brass Oracle deals damage to any target equal to its power.	1/1		normal	CYB		!canoncard Spellgorger Weird

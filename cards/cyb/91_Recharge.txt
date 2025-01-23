@@ -1,1 +1,0 @@
-﻿Recharge	U	common	Sorcery	91	U	2U	Choose one –NEWLINE• Draw two cards.NEWLINE• Put a +1/+1 counter on target creature, scry 1, then draw a card.			normal	CYB		!canoncard Abzan Charm

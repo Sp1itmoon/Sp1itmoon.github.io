@@ -1,1 +1,0 @@
-﻿First Contact		common	Sorcery	7	C	C	Draw a card. If you control no creatures, create a 1/1 colorless Cyborg artifact creature token.			normal	CYB		!canoncard Elvish Visionary

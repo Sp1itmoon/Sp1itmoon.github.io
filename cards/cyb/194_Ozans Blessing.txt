@@ -1,1 +1,0 @@
-﻿Ozan's Blessing	G	uncommon	Instant	194	G	2G	Search your library for a creature card with mana value 2 or less, put it onto the battlefield tapped, then shuffle.			normal	CYB		!canoncard Green Sun’s Zenith

@@ -1,1 +1,0 @@
-﻿Hostile Evolution	G	uncommon	Instant	184	G	G	Put a hexproof counter on target creature you control. At the beginning of the next end step, remove a counter from that creature.			normal	CYB		!canoncard Starlit Mantle

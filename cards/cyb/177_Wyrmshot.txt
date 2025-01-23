@@ -1,1 +1,0 @@
-﻿Wyrmshot	R	uncommon	Instant	177	R	3R	Choose one –NEWLINE• Wyrmshot deals 3 damage divided as you choose among one, two, or three targets.NEWLINE• Wyrmshot deals 6 damage to target creature, planeswalker, or battle.			normal	CYB		!canoncard Arc Lightning

@@ -1,1 +1,0 @@
-﻿Inessence		common	Instant	10	C	2C	Integrate target permanent spell. (Exile it, then you may choose a nonland permanent it’s integrated onto.)			normal	CYB		!canoncard Deny the DivineNEWLINE 101: Integrating is now optional.

@@ -1,1 +1,0 @@
-﻿Steamveil Model	U	common	Artifact Creature – Construct 	97	U	2U	Steamveil Model enters with a +1/+1 counter on it.	2/1		adventure	CYB		Baffling Haze	U	Sorcery – Discharge 	U	1U	Return target creature to its owner’s hand. (Remove a counter from this to cast a copy.)				!canoncard Separatist Voidmage

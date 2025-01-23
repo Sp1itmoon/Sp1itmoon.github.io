@@ -1,1 +1,0 @@
-﻿Gilded Font		rare	Artifact	255	C	2	Whenever you play a card with mana value equal to the number of charge counters on Gilded Font, put a charge counter on it.NEWLINE2, Sacrifice Gilded Font: You draw X cards and gain twice X life, where X is the number of charge counters on Gilded Font.			normal	CYB		!canoncard Bag of Holding

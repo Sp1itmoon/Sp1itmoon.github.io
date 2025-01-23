@@ -1,1 +1,0 @@
-﻿Drone Swarm	R	common	Sorcery	151	R	3R	Create two 1/1 colorless Thopter artifact creature tokens with flying, then each Thopter you control deals 1 damage to each opponent.			normal	CYB		!canoncard Thopter Engineer

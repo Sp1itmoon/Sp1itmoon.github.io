@@ -1,1 +1,0 @@
-﻿Cryptolabe	UG	rare	Artifact	232	UG	2G/UG/U	When Cryptolabe enters, exile your hand and the top card of your library. You may play cards exiled this way for as long as they remain exiled.NEWLINET: Add GU. This mana can’t be spent to cast spells from your hand.			normal	CYB		!canoncard Altar of the Lost

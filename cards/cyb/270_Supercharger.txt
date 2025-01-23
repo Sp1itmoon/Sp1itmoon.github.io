@@ -1,1 +1,0 @@
-﻿Supercharger		common	Artifact	270	C	X	Supercharger enters with X charge counters on it.NEWLINE1, T, Remove a charge counter from Supercharger: Put a +1/+1 counter on target creature. Activate only as a sorcery.			normal	CYB		!canoncard Baton of Courage

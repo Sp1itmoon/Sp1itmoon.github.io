@@ -1,1 +1,0 @@
-﻿Cosmic Colossus		uncommon	Artifact Creature – Construct 	254	C	4CC	When Cosmic Colossus enters, if you cast it from your hand, cast a copy of target card in exile without paying its mana cost unless an opponent exiles two nonland permanents they control.	4/7		normal	CYB		!canoncard Bloodthirsty Adversary

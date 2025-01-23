@@ -1,1 +1,0 @@
-﻿Nyamphibian	B	common	Creature – Cat Frog 	134	B	1B	Reach, lifelink	2/1		normal	CYB		!canoncard Child of Night

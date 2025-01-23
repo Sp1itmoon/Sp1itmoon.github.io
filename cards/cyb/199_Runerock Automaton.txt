@@ -1,1 +1,0 @@
-﻿Runerock Automaton	G	uncommon	Artifact Creature – Construct 	199	G	3GG	ReachNEWLINE1, Sacrifice a land: Put a +1/+1 counter on Runerock Automaton.	5/5		adventure	CYB		Boulder Toss	G	Sorcery – Discharge 	G	1G	Destroy target artifact creature or creature with flying. (Remove a counter from this to cast a copy.)				!canoncard Stingerfling Spider

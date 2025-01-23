@@ -1,1 +1,0 @@
-﻿Altar of Chrome		uncommon	Artifact	251	C	1	As an additional cost to cast this spell, tap four untapped artifacts and/or lands you control.NEWLINET: Each opponent loses 1 life and you gain 1 life.NEWLINETap four untapped artifacts and/or lands you control: Untap Altar of Chrome.			normal	CYB		!canoncard Underhanded Designs

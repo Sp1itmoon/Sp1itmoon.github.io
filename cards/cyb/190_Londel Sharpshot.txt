@@ -1,1 +1,0 @@
-﻿Londel Sharpshot	G	common	Creature – Human Scout 	190	G	1G	Solidarity (Whenever you attack with six or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0” if you haven’t this turn.)NEWLINELondel Sharpshot can’t be blocked by creatures with power 2 or less.	2/2		normal	CYB		!canoncard Giltgrove Stalker

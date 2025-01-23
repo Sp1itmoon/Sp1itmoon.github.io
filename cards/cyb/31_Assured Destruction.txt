@@ -1,1 +1,0 @@
-﻿Assured Destruction	W	uncommon	Sorcery	31	W	1WW	Choose any number –NEWLINE• Each player sacrifices an enchantment.NEWLINE• Each player sacrifices an artifact.NEWLINE• Each player sacrifices a creature.			normal	CYB		!canoncard Cataclysm

@@ -1,1 +1,0 @@
-﻿Highseas Renegade	UR	uncommon	Creature – Human Pirate 	238	UR	3U/R	MenaceNEWLINEWhenever Highseas Renegade deals combat damage to a player, exile the top card of their library. You may play that card until the end of your next turn, and mana of any type can be spent to cast it.	3/3		normal	CYB		!canoncard Daxos of Meletis

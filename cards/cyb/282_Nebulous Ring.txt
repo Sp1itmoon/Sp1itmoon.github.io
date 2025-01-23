@@ -1,1 +1,0 @@
-﻿Nebulous Ring		common	Land	282	W		Nebulous Ring enters tapped.NEWLINET: Add C or W.NEWLINE1, Discard Nebulous Ring: Scry 2.			normal	CYB		!canoncard Drifting Meadow

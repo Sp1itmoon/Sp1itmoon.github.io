@@ -1,1 +1,0 @@
-﻿Skyward Magus	U	common	Creature – Human Wizard 	96	U	1U	Whenever you cast an instant or sorcery spell, Skyward Magus gets +1/+1 and gains flying until end of turn.	2/1		normal	CYB		!canoncard Aven Wind Mage

@@ -1,1 +1,0 @@
-﻿Holding Cell	W	common	Enchantment – Aura 	41	W	2W	FlashNEWLINEEnchant creatureNEWLINEEnchanted creature can’t attack or block.			normal	CYB		!canoncard Lawmage’s Binding
