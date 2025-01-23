@@ -3449,12 +3449,6 @@
 		9 Gravity Gauntlets
 		9 Leyshard
 		9 Altar of Chrome
-		9 Neo Stehlia
-		9 High Teqien
-		9 Hallowed Chamber
-		9 Edgeland Market
-		9 Secluded Hangar
-		9 Mirrormeld Spire
 		9 Neotech Exploiter
 		9 Ragtag Squad
 		9 Essence Archivist
@@ -3476,7 +3470,6 @@
 		9 Plasma Elite
 		9 Gilded Death
 		9 Shepherd of Steel
-		9 Pristine Grounds
 		[CommonSlot(10)]
 	30 Lithe Stalker
 		30 Skyward Magus
@@ -3561,13 +3554,6 @@
 		30 Auto Sifter
 		30 Supercharger
 		30 Holo-Map
-		30 Field Laboratory
-		30 Valley Village
-		30 Steam Colony
-		30 Nebulous Ring
-		30 Dark Horizon
-		30 Lunar Plateau
-		30 Capital Zenith
 		30 Warpway Rings
 		30 Brandish Greatness
 		30 Dark Ambassador
@@ -3594,4 +3580,18 @@
 		30 Lauded Orator
 		30 Brass Laborer
 		[LandSlot(1)]
-	
+	10 Field Laboratory
+		10 Valley Village
+		10 Steam Colony
+		10 Nebulous Ring
+		10 Dark Horizon
+		10 Lunar Plateau
+		10 Capital Zenith
+		10 Neo Stehlia
+		10 High Teqien
+		10 Hallowed Chamber
+		10 Edgeland Market
+		10 Secluded Hangar
+		10 Mirrormeld Spire
+		10 Pristine Grounds
+		
